@@ -1,0 +1,3974 @@
+{
+  "pages": {
+    "page_0": {
+      "id": "page_0",
+      "mode": "AUTO_SCROLL",
+      "type": "NORMAL",
+      "layout": {
+        "LARGE": "layout_0"
+      },
+      "isDefault": true,
+      "isVisible": true,
+      "label": "Page 1"
+    }
+  },
+  "layouts": {
+    "layout_0": {
+      "type": "FLOW",
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "108px",
+            "right": "508px",
+            "top": "-74px",
+            "bottom": "326px",
+            "width": "400px",
+            "height": "100px"
+          },
+          "widgetId": "widget_1",
+          "setting": {
+            "heightMode": "fixed"
+          }
+        },
+        "1": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "346px",
+            "right": "746px",
+            "top": "50px",
+            "bottom": "450px",
+            "width": "400px",
+            "height": "300px"
+          },
+          "widgetId": "widget_4",
+          "setting": {
+            "heightMode": "fixed"
+          }
+        },
+        "2": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "293px",
+            "right": "693px",
+            "top": "409px",
+            "bottom": "809px",
+            "width": "400px",
+            "height": "840px"
+          },
+          "widgetId": "widget_8",
+          "setting": {
+            "heightMode": "fixed"
+          }
+        },
+        "3": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "252px",
+            "right": "652px",
+            "top": "1214px",
+            "bottom": "1614px",
+            "width": "400px",
+            "height": "750px"
+          },
+          "widgetId": "widget_197",
+          "setting": {
+            "heightMode": "fixed"
+          }
+        }
+      },
+      "order": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ]
+    },
+    "layout_1": {
+      "type": "ROW",
+      "label": "Default",
+      "order": [
+        "0"
+      ],
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": 0,
+            "width": 12,
+            "height": "75.00px"
+          },
+          "widgetId": "widget_2",
+          "setting": {
+            "heightMode": "fit",
+            "autoProps": {
+              "height": "CUSTOM"
+            }
+          }
+        }
+      }
+    },
+    "layout_2": {
+      "type": "FIXED",
+      "label": "Default",
+      "order": [
+        "0",
+        "1"
+      ],
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "1.5216%",
+            "right": "75.5602%",
+            "top": "50%",
+            "bottom": "6px",
+            "width": "22.9183%",
+            "height": "83.7500%"
+          },
+          "widgetId": "widget_3",
+          "isPending": false,
+          "setting": {
+            "vCenter": true,
+            "hCenter": false,
+            "autoProps": {
+              "top": false,
+              "bottom": true
+            }
+          }
+        },
+        "1": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "28.719700000000024%",
+            "right": "5.278300000000006%",
+            "top": "19px",
+            "bottom": "17px",
+            "width": "66.0020%",
+            "height": "50.8542%"
+          },
+          "widgetId": "widget_204",
+          "isPending": false,
+          "setting": {
+            "vCenter": false,
+            "hCenter": false
+          }
+        }
+      }
+    },
+    "layout_3": {
+      "type": "ROW",
+      "label": "Default",
+      "order": [
+        "0"
+      ],
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": 0,
+            "width": 12,
+            "height": "280.00px"
+          },
+          "widgetId": "widget_5",
+          "setting": {
+            "heightMode": "fit",
+            "autoProps": {
+              "height": "CUSTOM"
+            }
+          }
+        }
+      }
+    },
+    "layout_4": {
+      "type": "FIXED",
+      "label": "Default",
+      "order": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "4.6778%",
+            "right": "78.2984%",
+            "top": "19.3103%",
+            "bottom": "9.8330%",
+            "width": "17.0250%",
+            "height": "70.8567%"
+          },
+          "widgetId": "widget_6",
+          "isPending": false,
+          "setting": {
+            "vCenter": false,
+            "hCenter": false
+          }
+        },
+        "1": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "27.1887%",
+            "right": "8.3259%",
+            "top": "19.7879%",
+            "bottom": "8.1417%",
+            "width": "64.4854%",
+            "height": "72.0703%"
+          },
+          "widgetId": "widget_7",
+          "isPending": false,
+          "setting": {
+            "vCenter": false,
+            "hCenter": false,
+            "autoProps": {
+              "top": false,
+              "bottom": true
+            }
+          }
+        },
+        "2": {
+          "type": "WIDGET",
+          "setting": {
+            "style": {},
+            "vCenter": false,
+            "hCenter": true,
+            "autoProps": {
+              "left": false,
+              "right": true
+            }
+          },
+          "bbox": {
+            "left": "50%",
+            "right": "42.6670%",
+            "top": "11px",
+            "bottom": "83.03790000000006%",
+            "width": "15.9524%",
+            "height": "15.8621%"
+          },
+          "widgetId": "widget_205",
+          "isPending": false
+        },
+        "3": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "21.7014%",
+            "right": "74.2956%",
+            "top": 22,
+            "bottom": "80.2121%",
+            "width": "4.0030%",
+            "height": "12.0348%"
+          },
+          "widgetId": "widget_206",
+          "isPending": false,
+          "setting": {
+            "vCenter": false,
+            "hCenter": false
+          }
+        }
+      }
+    },
+    "layout_5": {
+      "type": "ROW",
+      "label": "Default",
+      "order": [
+        "0"
+      ],
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": 0,
+            "width": 12,
+            "height": "820.00px"
+          },
+          "widgetId": "widget_9",
+          "setting": {
+            "heightMode": "fit",
+            "autoProps": {
+              "height": "CUSTOM"
+            }
+          }
+        }
+      }
+    },
+    "layout_6": {
+      "type": "FIXED",
+      "label": "Default",
+      "order": [
+        "0",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "1.3827%",
+            "right": "84.8078%",
+            "top": "8.5023%",
+            "bottom": "70.6441%",
+            "width": "174px",
+            "height": "171px"
+          },
+          "widgetId": "widget_10",
+          "setting": {
+            "autoProps": {
+              "width": false,
+              "height": false
+            },
+            "vCenter": false,
+            "hCenter": false
+          },
+          "isPending": false
+        },
+        "4": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "16.6747%",
+            "right": "69.5157%",
+            "top": "8.5042%",
+            "bottom": "70.6421%",
+            "width": "174px",
+            "height": "171px"
+          },
+          "widgetId": "widget_124",
+          "setting": {
+            "autoProps": {
+              "width": false,
+              "height": false
+            },
+            "vCenter": false,
+            "hCenter": false
+          },
+          "isPending": false
+        },
+        "5": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "1.3790%",
+            "right": "84.8115%",
+            "top": "31.3319%",
+            "bottom": "47.8144%",
+            "width": "174px",
+            "height": "171px"
+          },
+          "widgetId": "widget_132",
+          "setting": {
+            "autoProps": {
+              "width": false,
+              "height": false
+            },
+            "vCenter": false,
+            "hCenter": false
+          },
+          "isPending": false
+        },
+        "6": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "16.6741%",
+            "right": "69.5164%",
+            "top": "31.3338%",
+            "bottom": "47.8125%",
+            "width": "174px",
+            "height": "171px"
+          },
+          "widgetId": "widget_140",
+          "setting": {
+            "autoProps": {
+              "width": false,
+              "height": false
+            },
+            "vCenter": false,
+            "hCenter": false
+          },
+          "isPending": false
+        },
+        "7": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "1.3827%",
+            "right": "84.8078%",
+            "top": "54.1606%",
+            "bottom": "24.9857%",
+            "width": "174px",
+            "height": "171px"
+          },
+          "widgetId": "widget_148",
+          "setting": {
+            "autoProps": {
+              "width": false,
+              "height": false
+            },
+            "vCenter": false,
+            "hCenter": false
+          },
+          "isPending": false
+        },
+        "8": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "16.6747%",
+            "right": "69.5157%",
+            "top": "54.1597%",
+            "bottom": "24.9867%",
+            "width": "174px",
+            "height": "171px"
+          },
+          "widgetId": "widget_156",
+          "setting": {
+            "autoProps": {
+              "width": false,
+              "height": false
+            },
+            "vCenter": false,
+            "hCenter": false
+          },
+          "isPending": false
+        },
+        "9": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "1.3831%",
+            "right": "84.8074%",
+            "top": "76.9893%",
+            "bottom": "2.1570%",
+            "width": "174px",
+            "height": "171px"
+          },
+          "widgetId": "widget_164",
+          "setting": {
+            "autoProps": {
+              "width": false,
+              "height": false
+            },
+            "vCenter": false,
+            "hCenter": false
+          },
+          "isPending": false
+        },
+        "10": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "16.3974%",
+            "right": "69.7931%",
+            "top": "76.9874%",
+            "bottom": "2.1589%",
+            "width": "174px",
+            "height": "171px"
+          },
+          "widgetId": "widget_172",
+          "setting": {
+            "autoProps": {
+              "width": false,
+              "height": false
+            },
+            "vCenter": false,
+            "hCenter": false
+          },
+          "isPending": false
+        },
+        "11": {
+          "sectionId": "section_1",
+          "type": "SECTION",
+          "bbox": {
+            "left": "31.6877%",
+            "right": "1.2376%",
+            "top": "8.5042%",
+            "bottom": "2.1589%",
+            "width": "67.0747%",
+            "height": "89.3369%"
+          },
+          "isPending": false,
+          "setting": {
+            "vCenter": false,
+            "hCenter": false,
+            "lockParent": false
+          }
+        },
+        "12": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "50%",
+            "right": "41.4745%",
+            "top": "12px",
+            "bottom": "92.8740%",
+            "width": "15.9561%",
+            "height": "5.6626%"
+          },
+          "widgetId": "widget_201",
+          "isPending": false,
+          "setting": {
+            "vCenter": false,
+            "hCenter": true,
+            "autoProps": {
+              "left": false,
+              "right": true
+            }
+          }
+        }
+      }
+    },
+    "layout_30": {
+      "type": "FIXED",
+      "content": {
+        "4": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "50%",
+            "right": "32px",
+            "top": "60.28299999999998%",
+            "bottom": "33px",
+            "width": "62.2729%",
+            "height": "25.9708%"
+          },
+          "widgetId": "widget_91",
+          "setting": {
+            "vCenter": false,
+            "hCenter": true,
+            "autoProps": {
+              "left": false,
+              "right": true
+            }
+          },
+          "isPending": false
+        },
+        "6": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": 0,
+            "right": 0,
+            "top": 0,
+            "bottom": "39.4058%",
+            "width": "100.0000%",
+            "height": "60.5942%"
+          },
+          "widgetId": "widget_93",
+          "setting": {}
+        },
+        "10": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "50%",
+            "right": "24.9682%",
+            "top": "86.65740000000012%",
+            "bottom": "21px",
+            "width": "56.1760%",
+            "height": "19px"
+          },
+          "widgetId": "widget_96",
+          "setting": {
+            "vCenter": false,
+            "hCenter": true,
+            "autoProps": {
+              "left": false,
+              "right": true
+            }
+          },
+          "isPending": false
+        }
+      },
+      "order": [
+        "4",
+        "6",
+        "10"
+      ],
+      "label": "Regular"
+    },
+    "layout_31": {
+      "label": "Hover",
+      "type": "FIXED",
+      "content": {},
+      "order": []
+    },
+    "layout_38": {
+      "type": "FIXED",
+      "label": "Regular",
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "50%",
+            "right": "18px",
+            "top": "60.5862%",
+            "bottom": "23px",
+            "width": "70.3834%",
+            "height": "25.9708%"
+          },
+          "widgetId": "widget_125",
+          "setting": {
+            "vCenter": false,
+            "hCenter": true,
+            "autoProps": {
+              "left": false,
+              "right": true
+            }
+          },
+          "isPending": false
+        },
+        "1": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": 0,
+            "right": 0,
+            "top": 0,
+            "bottom": "39.4058%",
+            "width": "100.0000%",
+            "height": "60.5942%"
+          },
+          "widgetId": "widget_126",
+          "setting": {}
+        },
+        "2": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "50%",
+            "right": "24.9682%",
+            "top": "86.65740000000012%",
+            "bottom": "21px",
+            "width": "56.1760%",
+            "height": "19px"
+          },
+          "widgetId": "widget_127",
+          "setting": {
+            "vCenter": false,
+            "hCenter": true,
+            "autoProps": {
+              "left": false,
+              "right": true
+            }
+          },
+          "isPending": false
+        }
+      },
+      "order": [
+        "0",
+        "1",
+        "2"
+      ]
+    },
+    "layout_39": {
+      "label": "Hover",
+      "type": "FIXED",
+      "content": {},
+      "order": []
+    },
+    "layout_40": {
+      "type": "FIXED",
+      "label": "Regular",
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "50%",
+            "right": "32px",
+            "top": "60.28299999999998%",
+            "bottom": "33px",
+            "width": "62.2729%",
+            "height": "25.9708%"
+          },
+          "widgetId": "widget_133",
+          "setting": {
+            "vCenter": false,
+            "hCenter": true,
+            "autoProps": {
+              "left": false,
+              "right": true
+            }
+          },
+          "isPending": false
+        },
+        "1": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": 0,
+            "right": 0,
+            "top": 0,
+            "bottom": "39.4058%",
+            "width": "100.0000%",
+            "height": "60.5942%"
+          },
+          "widgetId": "widget_134",
+          "setting": {}
+        },
+        "2": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "50%",
+            "right": "24.9682%",
+            "top": "86.65740000000012%",
+            "bottom": "21px",
+            "width": "56.1760%",
+            "height": "19px"
+          },
+          "widgetId": "widget_135",
+          "setting": {
+            "vCenter": false,
+            "hCenter": true,
+            "autoProps": {
+              "left": false,
+              "right": true
+            }
+          },
+          "isPending": false
+        }
+      },
+      "order": [
+        "0",
+        "1",
+        "2"
+      ]
+    },
+    "layout_41": {
+      "label": "Hover",
+      "type": "FIXED",
+      "content": {},
+      "order": []
+    },
+    "layout_42": {
+      "type": "FIXED",
+      "label": "Regular",
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "50%",
+            "right": "14px",
+            "top": "60.5862%",
+            "bottom": "23px",
+            "width": "72.9044%",
+            "height": "25.9708%"
+          },
+          "widgetId": "widget_141",
+          "setting": {
+            "vCenter": false,
+            "hCenter": true,
+            "autoProps": {
+              "left": false,
+              "right": true
+            }
+          },
+          "isPending": false
+        },
+        "1": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": 0,
+            "right": 0,
+            "top": 0,
+            "bottom": "39.4058%",
+            "width": "100.0000%",
+            "height": "60.5942%"
+          },
+          "widgetId": "widget_142",
+          "setting": {}
+        },
+        "2": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "50%",
+            "right": "24.9682%",
+            "top": "86.65740000000012%",
+            "bottom": "21px",
+            "width": "56.1760%",
+            "height": "19px"
+          },
+          "widgetId": "widget_143",
+          "setting": {
+            "vCenter": false,
+            "hCenter": true,
+            "autoProps": {
+              "left": false,
+              "right": true
+            }
+          },
+          "isPending": false
+        }
+      },
+      "order": [
+        "0",
+        "1",
+        "2"
+      ]
+    },
+    "layout_43": {
+      "label": "Hover",
+      "type": "FIXED",
+      "content": {},
+      "order": []
+    },
+    "layout_44": {
+      "type": "FIXED",
+      "label": "Regular",
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "50%",
+            "right": "32px",
+            "top": "60.28299999999998%",
+            "bottom": "33px",
+            "width": "62.2729%",
+            "height": "25.9708%"
+          },
+          "widgetId": "widget_149",
+          "setting": {
+            "vCenter": false,
+            "hCenter": true,
+            "autoProps": {
+              "left": false,
+              "right": true
+            }
+          },
+          "isPending": false
+        },
+        "1": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": 0,
+            "right": 0,
+            "top": 0,
+            "bottom": "39.4058%",
+            "width": "100.0000%",
+            "height": "60.5942%"
+          },
+          "widgetId": "widget_150",
+          "setting": {}
+        },
+        "2": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "50%",
+            "right": "24.9682%",
+            "top": "86.65740000000012%",
+            "bottom": "21px",
+            "width": "56.1760%",
+            "height": "19px"
+          },
+          "widgetId": "widget_151",
+          "setting": {
+            "vCenter": false,
+            "hCenter": true,
+            "autoProps": {
+              "left": false,
+              "right": true
+            }
+          },
+          "isPending": false
+        }
+      },
+      "order": [
+        "0",
+        "1",
+        "2"
+      ]
+    },
+    "layout_45": {
+      "label": "Hover",
+      "type": "FIXED",
+      "content": {},
+      "order": []
+    },
+    "layout_46": {
+      "type": "FIXED",
+      "label": "Regular",
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "50%",
+            "right": "9px",
+            "top": "60.5862%",
+            "bottom": "23px",
+            "width": "75.7284%",
+            "height": "25.9708%"
+          },
+          "widgetId": "widget_157",
+          "setting": {
+            "vCenter": false,
+            "hCenter": true,
+            "autoProps": {
+              "left": false,
+              "right": true
+            }
+          },
+          "isPending": false
+        },
+        "1": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": 0,
+            "right": 0,
+            "top": 0,
+            "bottom": "39.4058%",
+            "width": "100.0000%",
+            "height": "60.5942%"
+          },
+          "widgetId": "widget_158",
+          "setting": {}
+        },
+        "2": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "50%",
+            "right": "24.9682%",
+            "top": "86.65740000000012%",
+            "bottom": "21px",
+            "width": "56.1760%",
+            "height": "19px"
+          },
+          "widgetId": "widget_159",
+          "setting": {
+            "vCenter": false,
+            "hCenter": true,
+            "autoProps": {
+              "left": false,
+              "right": true
+            }
+          },
+          "isPending": false
+        }
+      },
+      "order": [
+        "0",
+        "1",
+        "2"
+      ]
+    },
+    "layout_47": {
+      "label": "Hover",
+      "type": "FIXED",
+      "content": {},
+      "order": []
+    },
+    "layout_48": {
+      "type": "FIXED",
+      "label": "Regular",
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "50%",
+            "right": "32px",
+            "top": "60.28299999999998%",
+            "bottom": "33px",
+            "width": "62.2729%",
+            "height": "25.9708%"
+          },
+          "widgetId": "widget_165",
+          "setting": {
+            "vCenter": false,
+            "hCenter": true,
+            "autoProps": {
+              "left": false,
+              "right": true
+            }
+          },
+          "isPending": false
+        },
+        "1": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": 0,
+            "right": 0,
+            "top": 0,
+            "bottom": "39.4058%",
+            "width": "100.0000%",
+            "height": "60.5942%"
+          },
+          "widgetId": "widget_166",
+          "setting": {}
+        },
+        "2": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "50%",
+            "right": "24.9682%",
+            "top": "86.65740000000012%",
+            "bottom": "21px",
+            "width": "56.1760%",
+            "height": "19px"
+          },
+          "widgetId": "widget_167",
+          "setting": {
+            "vCenter": false,
+            "hCenter": true,
+            "autoProps": {
+              "left": false,
+              "right": true
+            }
+          },
+          "isPending": false
+        }
+      },
+      "order": [
+        "0",
+        "1",
+        "2"
+      ]
+    },
+    "layout_49": {
+      "label": "Hover",
+      "type": "FIXED",
+      "content": {},
+      "order": []
+    },
+    "layout_50": {
+      "type": "FIXED",
+      "label": "Regular",
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "50%",
+            "right": "9px",
+            "top": "60.5862%",
+            "bottom": "23px",
+            "width": "75.7284%",
+            "height": "25.9708%"
+          },
+          "widgetId": "widget_173",
+          "setting": {
+            "vCenter": false,
+            "hCenter": true,
+            "autoProps": {
+              "left": false,
+              "right": true
+            }
+          },
+          "isPending": false
+        },
+        "1": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": 0,
+            "right": 0,
+            "top": 0,
+            "bottom": "39.4058%",
+            "width": "100.0000%",
+            "height": "60.5942%"
+          },
+          "widgetId": "widget_174",
+          "setting": {}
+        },
+        "2": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "50%",
+            "right": "24.9682%",
+            "top": "86.65740000000012%",
+            "bottom": "21px",
+            "width": "56.1760%",
+            "height": "19px"
+          },
+          "widgetId": "widget_175",
+          "setting": {
+            "vCenter": false,
+            "hCenter": true,
+            "autoProps": {
+              "left": false,
+              "right": true
+            }
+          },
+          "isPending": false
+        }
+      },
+      "order": [
+        "0",
+        "1",
+        "2"
+      ]
+    },
+    "layout_51": {
+      "label": "Hover",
+      "type": "FIXED",
+      "content": {},
+      "order": []
+    },
+    "layout_52": {
+      "type": "FIXED",
+      "order": [
+        "0",
+        "1"
+      ],
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "26.0695%",
+            "right": "11.9492%",
+            "top": "29.3815%",
+            "bottom": "36.9735%",
+            "width": "61.9813%",
+            "height": "33.6450%"
+          },
+          "widgetId": "widget_180",
+          "isPending": false,
+          "setting": {
+            "vCenter": false,
+            "hCenter": false,
+            "autoProps": {
+              "top": false,
+              "bottom": true
+            }
+          }
+        },
+        "1": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "6.4863%",
+            "right": "76.8863%",
+            "top": "44.0519%",
+            "bottom": "49.0875%",
+            "width": "16.6291%",
+            "height": "6.8607%"
+          },
+          "widgetId": "widget_203",
+          "isPending": false,
+          "setting": {
+            "vCenter": false,
+            "hCenter": false
+          }
+        }
+      }
+    },
+    "layout_53": {
+      "type": "FIXED",
+      "order": [
+        "0",
+        "1"
+      ],
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "48.91980000000005%",
+            "right": "9.452000000000012%",
+            "top": "50%",
+            "bottom": "1.5528%",
+            "width": "41.6282%",
+            "height": "96.3579%"
+          },
+          "widgetId": "widget_181",
+          "isPending": false,
+          "setting": {
+            "vCenter": true,
+            "hCenter": false,
+            "autoProps": {
+              "top": false,
+              "bottom": true
+            }
+          }
+        },
+        "1": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "1.7313%",
+            "right": "64.3044%",
+            "top": "50%",
+            "bottom": "17.1607%",
+            "width": "33.9643%",
+            "height": "60.5619%"
+          },
+          "widgetId": "widget_182",
+          "setting": {
+            "vCenter": true,
+            "autoProps": {
+              "top": false,
+              "bottom": true
+            },
+            "hCenter": false
+          },
+          "isPending": false
+        }
+      }
+    },
+    "layout_54": {
+      "type": "FIXED",
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "39.2358%",
+            "right": "1.8242%",
+            "top": "50%",
+            "bottom": "21.4731%",
+            "width": "58.9400%",
+            "height": "61.4330%"
+          },
+          "widgetId": "widget_183",
+          "isPending": false,
+          "setting": {
+            "vCenter": true,
+            "hCenter": false,
+            "autoProps": {
+              "top": false,
+              "bottom": true
+            }
+          }
+        },
+        "1": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "1.7276%",
+            "right": "64.3081%",
+            "top": "50%",
+            "bottom": "12.9764%",
+            "width": "33.9643%",
+            "height": "69.6156%"
+          },
+          "widgetId": "widget_184",
+          "setting": {
+            "vCenter": true,
+            "autoProps": {
+              "top": false,
+              "bottom": true
+            },
+            "hCenter": false
+          },
+          "isPending": false
+        }
+      },
+      "order": [
+        "0",
+        "1"
+      ]
+    },
+    "layout_55": {
+      "type": "FIXED",
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "39.2358%",
+            "right": "1.8242%",
+            "top": "50%",
+            "bottom": "21.4731%",
+            "width": "58.9400%",
+            "height": "61.4330%"
+          },
+          "widgetId": "widget_185",
+          "isPending": false,
+          "setting": {
+            "vCenter": true,
+            "hCenter": false,
+            "autoProps": {
+              "top": false,
+              "bottom": true
+            }
+          }
+        },
+        "1": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "1.7276%",
+            "right": "64.3081%",
+            "top": "50%",
+            "bottom": "15.4846%",
+            "width": "33.9643%",
+            "height": "64.5049%"
+          },
+          "widgetId": "widget_186",
+          "setting": {
+            "vCenter": true,
+            "autoProps": {
+              "top": false,
+              "bottom": true
+            },
+            "hCenter": false
+          },
+          "isPending": false
+        }
+      },
+      "order": [
+        "0",
+        "1"
+      ]
+    },
+    "layout_56": {
+      "type": "FIXED",
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "39.2358%",
+            "right": "1.8242%",
+            "top": "50%",
+            "bottom": "21.4731%",
+            "width": "58.9400%",
+            "height": "61.4330%"
+          },
+          "widgetId": "widget_187",
+          "isPending": false,
+          "setting": {
+            "vCenter": true,
+            "hCenter": false,
+            "autoProps": {
+              "top": false,
+              "bottom": true
+            }
+          }
+        },
+        "1": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "1.7276%",
+            "right": "64.3081%",
+            "top": "50%",
+            "bottom": "22.4744%",
+            "width": "33.9643%",
+            "height": "59.7777%"
+          },
+          "widgetId": "widget_188",
+          "setting": {
+            "vCenter": true,
+            "autoProps": {
+              "top": false,
+              "bottom": true
+            },
+            "hCenter": false
+          },
+          "isPending": false
+        }
+      },
+      "order": [
+        "0",
+        "1"
+      ]
+    },
+    "layout_57": {
+      "type": "FIXED",
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "39.2358%",
+            "right": "1.8242%",
+            "top": "50%",
+            "bottom": "21.4731%",
+            "width": "58.9400%",
+            "height": "61.4330%"
+          },
+          "widgetId": "widget_189",
+          "isPending": false,
+          "setting": {
+            "vCenter": true,
+            "hCenter": false,
+            "autoProps": {
+              "top": false,
+              "bottom": true
+            }
+          }
+        },
+        "1": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "1.7276%",
+            "right": "64.3081%",
+            "top": "50%",
+            "bottom": "22.4744%",
+            "width": "33.9643%",
+            "height": "59.7777%"
+          },
+          "widgetId": "widget_190",
+          "setting": {
+            "vCenter": true,
+            "autoProps": {
+              "top": false,
+              "bottom": true
+            },
+            "hCenter": false
+          },
+          "isPending": false
+        }
+      },
+      "order": [
+        "0",
+        "1"
+      ]
+    },
+    "layout_58": {
+      "type": "FIXED",
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "39.2358%",
+            "right": "1.8242%",
+            "top": "50%",
+            "bottom": "21.4731%",
+            "width": "58.9400%",
+            "height": "61.4330%"
+          },
+          "widgetId": "widget_191",
+          "isPending": false,
+          "setting": {
+            "vCenter": true,
+            "hCenter": false,
+            "autoProps": {
+              "top": false,
+              "bottom": true
+            }
+          }
+        },
+        "1": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "1.7276%",
+            "right": "64.3081%",
+            "top": "50%",
+            "bottom": "12.5836%",
+            "width": "33.9643%",
+            "height": "67.3051%"
+          },
+          "widgetId": "widget_192",
+          "setting": {
+            "vCenter": true,
+            "autoProps": {
+              "top": false,
+              "bottom": true
+            },
+            "hCenter": false
+          },
+          "isPending": false
+        }
+      },
+      "order": [
+        "0",
+        "1"
+      ]
+    },
+    "layout_59": {
+      "type": "FIXED",
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "39.2358%",
+            "right": "1.8242%",
+            "top": "50%",
+            "bottom": "21.4731%",
+            "width": "58.9400%",
+            "height": "61.4330%"
+          },
+          "widgetId": "widget_193",
+          "isPending": false,
+          "setting": {
+            "vCenter": true,
+            "hCenter": false,
+            "autoProps": {
+              "top": false,
+              "bottom": true
+            }
+          }
+        },
+        "1": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "1.7276%",
+            "right": "64.3081%",
+            "top": "50%",
+            "bottom": "20.7859%",
+            "width": "33.9643%",
+            "height": "62.8667%"
+          },
+          "widgetId": "widget_194",
+          "setting": {
+            "vCenter": true,
+            "autoProps": {
+              "top": false,
+              "bottom": true
+            },
+            "hCenter": false
+          },
+          "isPending": false
+        }
+      },
+      "order": [
+        "0",
+        "1"
+      ]
+    },
+    "layout_60": {
+      "type": "FIXED",
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "39.2358%",
+            "right": "1.8242%",
+            "top": "50%",
+            "bottom": "21.4731%",
+            "width": "58.9400%",
+            "height": "61.4330%"
+          },
+          "widgetId": "widget_195",
+          "isPending": false,
+          "setting": {
+            "vCenter": true,
+            "hCenter": false,
+            "autoProps": {
+              "top": false,
+              "bottom": true
+            }
+          }
+        },
+        "1": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "1.7276%",
+            "right": "64.3081%",
+            "top": "50%",
+            "bottom": "12.5836%",
+            "width": "33.9643%",
+            "height": "67.3051%"
+          },
+          "widgetId": "widget_196",
+          "setting": {
+            "vCenter": true,
+            "autoProps": {
+              "top": false,
+              "bottom": true
+            },
+            "hCenter": false
+          },
+          "isPending": false
+        }
+      },
+      "order": [
+        "0",
+        "1"
+      ]
+    },
+    "layout_61": {
+      "type": "ROW",
+      "label": "Default",
+      "order": [
+        "0"
+      ],
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": 0,
+            "width": 12,
+            "height": "400px"
+          },
+          "widgetId": "widget_198",
+          "setting": {
+            "heightMode": "fit"
+          }
+        }
+      }
+    },
+    "layout_62": {
+      "type": "FIXED",
+      "label": "Default",
+      "order": [
+        "0",
+        "1",
+        "2"
+      ],
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "0.8519%",
+            "right": "51.3728%",
+            "top": "10.1155%",
+            "bottom": "3.8826%",
+            "width": "47.7753%",
+            "height": "86.0036%"
+          },
+          "widgetId": "widget_199",
+          "isPending": false,
+          "setting": {
+            "vCenter": false,
+            "hCenter": false
+          }
+        },
+        "1": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "51.1751%",
+            "right": "1.4125%",
+            "top": "10.1155%",
+            "bottom": "2.2321%",
+            "width": "47.4125%",
+            "height": "87.6524%"
+          },
+          "widgetId": "widget_200",
+          "isPending": false,
+          "setting": {
+            "vCenter": false,
+            "hCenter": false
+          }
+        },
+        "2": {
+          "type": "WIDGET",
+          "setting": {
+            "style": {},
+            "vCenter": false,
+            "hCenter": true,
+            "autoProps": {
+              "left": false,
+              "right": true
+            }
+          },
+          "bbox": {
+            "left": "50%",
+            "right": "44.5927%",
+            "top": "1.7044%",
+            "bottom": "92.0391%",
+            "width": "15.9524%",
+            "height": "6.2577%"
+          },
+          "widgetId": "widget_202",
+          "isPending": false
+        }
+      }
+    }
+  },
+  "exbVersion": "1.2.0",
+  "mainSizeMode": "LARGE",
+  "theme": "themes/dark/",
+  "forBuilderAttributes": {
+    "lockLayout": false
+  },
+  "template": "blankscrollable",
+  "attributes": {
+    "portalUrl": "https://uw-mad.maps.arcgis.com"
+  },
+  "customTheme": {
+    "sharedThemeVariables": {
+      "header": {},
+      "body": {},
+      "button": {},
+      "logo": {
+        "small": null
+      }
+    }
+  },
+  "widgets": {
+    "widget_1": {
+      "uri": "widgets/layout/row/",
+      "version": "1.2.0",
+      "label": "Block 1",
+      "config": {
+        "space": 10,
+        "style": {
+          "padding": {
+            "number": [
+              10
+            ],
+            "unit": "px"
+          }
+        }
+      },
+      "id": "widget_1",
+      "layouts": {
+        "DEFAULT": {
+          "LARGE": "layout_1"
+        }
+      }
+    },
+    "widget_2": {
+      "uri": "widgets/layout/fixed/",
+      "version": "1.2.0",
+      "label": "Fixed Panel 1",
+      "id": "widget_2",
+      "layouts": {
+        "DEFAULT": {
+          "LARGE": "layout_2"
+        }
+      },
+      "style": {
+        "background": {
+          "color": "var(--info-100)",
+          "fillType": "fit",
+          "image": {
+            "url": ""
+          }
+        }
+      }
+    },
+    "widget_3": {
+      "uri": "widgets/common/text/",
+      "version": "1.2.0",
+      "label": "Text 1",
+      "config": {
+        "text": "<p><strong style=\"font-size: 36px;\">Jonathan Hansel</strong></p>",
+        "placeholder": "Double click to edit text",
+        "style": {
+          "verticalAlign": "start",
+          "wrap": true
+        }
+      },
+      "id": "widget_3"
+    },
+    "widget_4": {
+      "uri": "widgets/layout/row/",
+      "version": "1.2.0",
+      "label": "Block 2",
+      "config": {
+        "space": 10,
+        "style": {
+          "padding": {
+            "number": [
+              10
+            ],
+            "unit": "px"
+          }
+        }
+      },
+      "id": "widget_4",
+      "layouts": {
+        "DEFAULT": {
+          "LARGE": "layout_3"
+        }
+      }
+    },
+    "widget_5": {
+      "uri": "widgets/layout/fixed/",
+      "version": "1.2.0",
+      "label": "Fixed Panel 2",
+      "id": "widget_5",
+      "layouts": {
+        "DEFAULT": {
+          "LARGE": "layout_4"
+        }
+      },
+      "style": {
+        "background": {
+          "color": "var(--info-100)",
+          "fillType": "fit",
+          "image": {
+            "url": ""
+          }
+        }
+      }
+    },
+    "widget_6": {
+      "uri": "widgets/common/image/",
+      "version": "1.2.0",
+      "label": "Image 1",
+      "config": {
+        "functionConfig": {
+          "altText": "",
+          "toolTip": "",
+          "linkParam": {},
+          "scale": "Fit",
+          "imageParam": {
+            "url": "https://jhansel1.github.io/assets/jon.png",
+            "originalUrl": "https://jhansel1.github.io/assets/jon.png",
+            "fileName": "jon.png",
+            "originalName": "jon.png",
+            "imgSourceType": "BY_URL"
+          },
+          "imgSourceType": "",
+          "srcExpression": null,
+          "imageFillMode": "FIT"
+        },
+        "styleConfig": {}
+      },
+      "id": "widget_6"
+    },
+    "widget_7": {
+      "uri": "widgets/common/text/",
+      "version": "1.2.0",
+      "label": "Text 2",
+      "config": {
+        "text": "<p><span style=\"font-size: 14px;\">Hello!  I am Jonathan Hansel and currently live in Chicago, IL.  I have been married for almost 14 years and also have a German Shepherd dog.</span></p><p><br></p><p><span style=\"font-size: 14px;\">In my spare time I love the outdoors... whether its trail running, hiking or fishing I love just getting fresh air. </span></p><p><br></p><p><span style=\"font-size: 14px;\">I have served in the U.S. Marine Corps and traveled the world.  I hold a Bachelor of Science in Geography from George Mason University in Fairfax, VA and currently working on my Master of Science in GIS and Web Programming at the University of Wisconsin - Madison. </span></p><p><br></p><p><span style=\"font-size: 14px;\">Please feel free to contact me at jhansel@wisc.edu. Thanks for stopping by! </span></p>",
+        "placeholder": "Double click to edit text",
+        "style": {
+          "verticalAlign": "start",
+          "wrap": true
+        }
+      },
+      "id": "widget_7"
+    },
+    "widget_8": {
+      "uri": "widgets/layout/row/",
+      "version": "1.2.0",
+      "label": "Block 3",
+      "config": {
+        "space": 10,
+        "style": {
+          "padding": {
+            "number": [
+              10
+            ],
+            "unit": "px"
+          }
+        }
+      },
+      "id": "widget_8",
+      "layouts": {
+        "DEFAULT": {
+          "LARGE": "layout_5"
+        }
+      }
+    },
+    "widget_9": {
+      "uri": "widgets/layout/fixed/",
+      "version": "1.2.0",
+      "label": "Fixed Panel 3",
+      "id": "widget_9",
+      "layouts": {
+        "DEFAULT": {
+          "LARGE": "layout_6"
+        }
+      },
+      "style": {
+        "background": {
+          "color": "var(--info-100)",
+          "fillType": "fit",
+          "image": {
+            "url": ""
+          }
+        }
+      }
+    },
+    "widget_10": {
+      "uri": "widgets/common/card/",
+      "version": "1.2.0",
+      "label": "Card 1",
+      "config": {
+        "REGULAR": {
+          "enable": true,
+          "backgroundStyle": {
+            "border": {
+              "type": "solid",
+              "color": "var(--light-400)",
+              "width": "1px"
+            },
+            "background": {
+              "color": "",
+              "fillType": "fit",
+              "image": {
+                "url": ""
+              }
+            }
+          }
+        },
+        "HOVER": {
+          "enable": false,
+          "backgroundStyle": {
+            "border": {
+              "type": "solid",
+              "color": "var(--light-400)",
+              "width": "1px"
+            },
+            "boxShadow": {
+              "offsetX": "0px",
+              "offsetY": "0px",
+              "blur": "0px",
+              "spread": "0px",
+              "color": ""
+            },
+            "background": {
+              "color": "",
+              "fillType": "fit",
+              "image": {
+                "url": ""
+              }
+            }
+          }
+        },
+        "itemStyle": "STYLE2",
+        "direction": "Horizontal",
+        "isItemStyleConfirm": true,
+        "isOpenAdvabceSetting": false,
+        "isInitialed": true,
+        "transitionInfo": {
+          "transition": {
+            "type": "None",
+            "direction": "H"
+          },
+          "oneByOneEffect": null
+        }
+      },
+      "id": "widget_10",
+      "layouts": {
+        "REGULAR": {
+          "LARGE": "layout_30"
+        },
+        "HOVER": {
+          "LARGE": "layout_31"
+        }
+      }
+    },
+    "widget_91": {
+      "uri": "widgets/common/text/",
+      "version": "1.2.0",
+      "label": "Text 46",
+      "config": {
+        "text": "<p style=\"text-align: center;\"><strong style=\"font-size: 12px; color: var(--dark-800);\">Salmon Migration Infographic</strong></p>",
+        "placeholder": "<p><span style=\"color: var(--dark-800); font-size: 16px;\">Card title</span></p>",
+        "style": {
+          "verticalAlign": "start",
+          "wrap": true
+        }
+      },
+      "id": "widget_91"
+    },
+    "widget_93": {
+      "uri": "widgets/common/image/",
+      "version": "1.2.0",
+      "label": "Image 15",
+      "config": {
+        "functionConfig": {
+          "altText": "",
+          "toolTip": "",
+          "linkParam": {},
+          "scale": "Fit",
+          "imageParam": {
+            "url": "https://jhansel1.github.io/assets/infographic_thumb3.png",
+            "originalUrl": "https://jhansel1.github.io/assets/infographic_thumb3.png",
+            "fileName": "infographic_thumb3.png",
+            "originalName": "infographic_thumb3.png",
+            "imgSourceType": "BY_URL",
+            "cropParam": {
+              "svgViewBox": "0 0 28 28",
+              "svgPath": "M0 0v28h28V0H0z",
+              "cropShape": "rectangle"
+            }
+          },
+          "imgSourceType": "",
+          "srcExpression": null,
+          "imageFillMode": "FILL"
+        },
+        "styleConfig": {}
+      },
+      "id": "widget_93"
+    },
+    "widget_96": {
+      "uri": "widgets/common/button/",
+      "version": "1.2.0",
+      "label": "Button 2",
+      "config": {
+        "functionConfig": {
+          "text": "View Details",
+          "textExpression": null,
+          "linkParam": {
+            "linkType": "VIEW",
+            "openType": "_self",
+            "value": "page_0,view_2"
+          }
+        },
+        "styleConfig": {
+          "useCustom": true,
+          "customStyle": {
+            "regular": {
+              "background": {
+                "color": "var(--info-300)",
+                "fillType": "fill"
+              },
+              "border": {
+                "type": "solid",
+                "color": "#ffffff",
+                "width": "0px"
+              },
+              "text": {
+                "color": "var(--black)",
+                "size": "10px",
+                "bold": true
+              },
+              "borderRadius": {
+                "number": [
+                  20
+                ],
+                "unit": "px"
+              },
+              "iconProps": {
+                "color": "var(--black)",
+                "size": 14
+              }
+            },
+            "hover": {
+              "background": {
+                "color": "var(--warning)",
+                "fillType": "fill"
+              },
+              "border": {
+                "type": "solid",
+                "width": "undefinedpx"
+              },
+              "text": {
+                "size": "10px",
+                "bold": true,
+                "color": "var(--light-300)"
+              },
+              "borderRadius": {
+                "number": [
+                  20
+                ],
+                "unit": "px"
+              },
+              "iconProps": {
+                "size": 14
+              }
+            }
+          }
+        }
+      },
+      "id": "widget_96",
+      "useDataSources": []
+    },
+    "widget_124": {
+      "uri": "widgets/common/card/",
+      "version": "1.2.0",
+      "label": "Card 1 copy",
+      "config": {
+        "REGULAR": {
+          "enable": true,
+          "backgroundStyle": {
+            "border": {
+              "type": "solid",
+              "color": "var(--light-400)",
+              "width": "1px"
+            },
+            "background": {
+              "color": "",
+              "fillType": "fit",
+              "image": {
+                "url": ""
+              }
+            }
+          }
+        },
+        "HOVER": {
+          "enable": false,
+          "backgroundStyle": {
+            "border": {
+              "type": "solid",
+              "color": "var(--light-400)",
+              "width": "1px"
+            },
+            "boxShadow": {
+              "offsetX": "0px",
+              "offsetY": "0px",
+              "blur": "0px",
+              "spread": "0px",
+              "color": ""
+            },
+            "background": {
+              "color": "",
+              "fillType": "fit",
+              "image": {
+                "url": ""
+              }
+            }
+          }
+        },
+        "itemStyle": "STYLE2",
+        "direction": "Horizontal",
+        "isItemStyleConfirm": true,
+        "isOpenAdvabceSetting": false,
+        "isInitialed": true,
+        "transitionInfo": {
+          "transition": {
+            "type": "None",
+            "direction": "H"
+          },
+          "oneByOneEffect": null
+        }
+      },
+      "id": "widget_124",
+      "layouts": {
+        "REGULAR": {
+          "LARGE": "layout_38"
+        },
+        "HOVER": {
+          "LARGE": "layout_39"
+        }
+      }
+    },
+    "widget_125": {
+      "uri": "widgets/common/text/",
+      "version": "1.2.0",
+      "label": "Text 46 copy",
+      "config": {
+        "text": "<p style=\"text-align: center;\"><strong style=\"color: var(--dark-800); font-size: 12px;\">Great Lakes Bike Race Cartography</strong></p>",
+        "placeholder": "<p><span style=\"color: var(--dark-800); font-size: 16px;\">Card title</span></p>",
+        "style": {
+          "verticalAlign": "start",
+          "wrap": true
+        }
+      },
+      "id": "widget_125"
+    },
+    "widget_126": {
+      "uri": "widgets/common/image/",
+      "version": "1.2.0",
+      "label": "Image 15 copy",
+      "config": {
+        "functionConfig": {
+          "altText": "",
+          "toolTip": "",
+          "linkParam": {},
+          "scale": "Fit",
+          "imageParam": {
+            "url": "https://jhansel1.github.io/assets/bike_map_thumb2.png",
+            "originalUrl": "https://jhansel1.github.io/assets/bike_map_thumb2.png",
+            "fileName": "bike_map_thumb2.png",
+            "originalName": "bike_map_thumb2.png",
+            "imgSourceType": "BY_URL",
+            "cropParam": {
+              "svgViewBox": "0 0 28 28",
+              "svgPath": "M0 0v28h28V0H0z",
+              "cropShape": "rectangle"
+            }
+          },
+          "imgSourceType": "",
+          "srcExpression": null,
+          "imageFillMode": "FILL"
+        },
+        "styleConfig": {}
+      },
+      "id": "widget_126"
+    },
+    "widget_127": {
+      "uri": "widgets/common/button/",
+      "version": "1.2.0",
+      "label": "Button 2 copy",
+      "config": {
+        "functionConfig": {
+          "text": "View Details",
+          "textExpression": null,
+          "linkParam": {
+            "linkType": "VIEW",
+            "openType": "_self",
+            "value": "page_0,view_3"
+          }
+        },
+        "styleConfig": {
+          "useCustom": true,
+          "customStyle": {
+            "regular": {
+              "background": {
+                "color": "var(--info-300)",
+                "fillType": "fill"
+              },
+              "border": {
+                "type": "solid",
+                "color": "#ffffff",
+                "width": "0px"
+              },
+              "text": {
+                "color": "var(--black)",
+                "size": "10px",
+                "bold": true
+              },
+              "borderRadius": {
+                "number": [
+                  20
+                ],
+                "unit": "px"
+              },
+              "iconProps": {
+                "color": "var(--black)",
+                "size": 14
+              }
+            },
+            "hover": {
+              "background": {
+                "color": "var(--warning)",
+                "fillType": "fill"
+              },
+              "border": {
+                "type": "solid",
+                "width": "undefinedpx"
+              },
+              "text": {
+                "size": "10px",
+                "bold": true,
+                "color": "var(--light-300)"
+              },
+              "borderRadius": {
+                "number": [
+                  20
+                ],
+                "unit": "px"
+              },
+              "iconProps": {
+                "size": 14
+              }
+            }
+          }
+        }
+      },
+      "id": "widget_127",
+      "useDataSources": []
+    },
+    "widget_132": {
+      "uri": "widgets/common/card/",
+      "version": "1.2.0",
+      "label": "Card 1 copy 2",
+      "config": {
+        "REGULAR": {
+          "enable": true,
+          "backgroundStyle": {
+            "border": {
+              "type": "solid",
+              "color": "var(--light-400)",
+              "width": "1px"
+            },
+            "background": {
+              "color": "",
+              "fillType": "fit",
+              "image": {
+                "url": ""
+              }
+            }
+          }
+        },
+        "HOVER": {
+          "enable": false,
+          "backgroundStyle": {
+            "border": {
+              "type": "solid",
+              "color": "var(--light-400)",
+              "width": "1px"
+            },
+            "boxShadow": {
+              "offsetX": "0px",
+              "offsetY": "0px",
+              "blur": "0px",
+              "spread": "0px",
+              "color": ""
+            },
+            "background": {
+              "color": "",
+              "fillType": "fit",
+              "image": {
+                "url": ""
+              }
+            }
+          }
+        },
+        "itemStyle": "STYLE2",
+        "direction": "Horizontal",
+        "isItemStyleConfirm": true,
+        "isOpenAdvabceSetting": false,
+        "isInitialed": true,
+        "transitionInfo": {
+          "transition": {
+            "type": "None",
+            "direction": "H"
+          },
+          "oneByOneEffect": null
+        }
+      },
+      "id": "widget_132",
+      "layouts": {
+        "REGULAR": {
+          "LARGE": "layout_40"
+        },
+        "HOVER": {
+          "LARGE": "layout_41"
+        }
+      }
+    },
+    "widget_133": {
+      "uri": "widgets/common/text/",
+      "version": "1.2.0",
+      "label": "Text 46 copy 2",
+      "config": {
+        "text": "<p style=\"text-align: center;\"><strong style=\"color: var(--dark-800); font-size: 12px;\">Chicago CTA Slippy Map</strong></p>",
+        "placeholder": "<p><span style=\"color: var(--dark-800); font-size: 16px;\">Card title</span></p>",
+        "style": {
+          "verticalAlign": "start",
+          "wrap": true
+        }
+      },
+      "id": "widget_133"
+    },
+    "widget_134": {
+      "uri": "widgets/common/image/",
+      "version": "1.2.0",
+      "label": "Image 15 copy 3",
+      "config": {
+        "functionConfig": {
+          "altText": "",
+          "toolTip": "",
+          "linkParam": {},
+          "scale": "Fit",
+          "imageParam": {
+            "url": "https://github.com/jhansel1/d3_files/blob/main/Lab1_CTA.png?raw=true",
+            "originalUrl": "https://github.com/jhansel1/d3_files/blob/main/Lab1_CTA.png?raw=true",
+            "fileName": "Lab1_CTA.png",
+            "originalName": "Lab1_CTA.png",
+            "imgSourceType": "BY_URL",
+            "cropParam": {
+              "svgViewBox": "0 0 28 28",
+              "svgPath": "M0 0v28h28V0H0z",
+              "cropShape": "rectangle"
+            }
+          },
+          "imgSourceType": "",
+          "srcExpression": null,
+          "imageFillMode": "FILL"
+        },
+        "styleConfig": {}
+      },
+      "id": "widget_134"
+    },
+    "widget_135": {
+      "uri": "widgets/common/button/",
+      "version": "1.2.0",
+      "label": "Button 2 copy 2",
+      "config": {
+        "functionConfig": {
+          "text": "View Details",
+          "textExpression": null,
+          "linkParam": {
+            "linkType": "VIEW",
+            "openType": "_self",
+            "value": "page_0,view_4"
+          }
+        },
+        "styleConfig": {
+          "useCustom": true,
+          "customStyle": {
+            "regular": {
+              "background": {
+                "color": "var(--info-300)",
+                "fillType": "fill"
+              },
+              "border": {
+                "type": "solid",
+                "color": "#ffffff",
+                "width": "0px"
+              },
+              "text": {
+                "color": "var(--black)",
+                "size": "10px",
+                "bold": true
+              },
+              "borderRadius": {
+                "number": [
+                  20
+                ],
+                "unit": "px"
+              },
+              "iconProps": {
+                "color": "var(--black)",
+                "size": 14
+              }
+            },
+            "hover": {
+              "background": {
+                "color": "var(--warning)",
+                "fillType": "fill"
+              },
+              "border": {
+                "type": "solid",
+                "width": "undefinedpx"
+              },
+              "text": {
+                "size": "10px",
+                "bold": true,
+                "color": "var(--light-300)"
+              },
+              "borderRadius": {
+                "number": [
+                  20
+                ],
+                "unit": "px"
+              },
+              "iconProps": {
+                "size": 14
+              }
+            }
+          }
+        }
+      },
+      "id": "widget_135",
+      "useDataSources": []
+    },
+    "widget_140": {
+      "uri": "widgets/common/card/",
+      "version": "1.2.0",
+      "label": "Card 1 copy 2 copy",
+      "config": {
+        "REGULAR": {
+          "enable": true,
+          "backgroundStyle": {
+            "border": {
+              "type": "solid",
+              "color": "var(--light-400)",
+              "width": "1px"
+            },
+            "background": {
+              "color": "",
+              "fillType": "fit",
+              "image": {
+                "url": ""
+              }
+            }
+          }
+        },
+        "HOVER": {
+          "enable": false,
+          "backgroundStyle": {
+            "border": {
+              "type": "solid",
+              "color": "var(--light-400)",
+              "width": "1px"
+            },
+            "boxShadow": {
+              "offsetX": "0px",
+              "offsetY": "0px",
+              "blur": "0px",
+              "spread": "0px",
+              "color": ""
+            },
+            "background": {
+              "color": "",
+              "fillType": "fit",
+              "image": {
+                "url": ""
+              }
+            }
+          }
+        },
+        "itemStyle": "STYLE2",
+        "direction": "Horizontal",
+        "isItemStyleConfirm": true,
+        "isOpenAdvabceSetting": false,
+        "isInitialed": true,
+        "transitionInfo": {
+          "transition": {
+            "type": "None",
+            "direction": "H"
+          },
+          "oneByOneEffect": null
+        }
+      },
+      "id": "widget_140",
+      "layouts": {
+        "REGULAR": {
+          "LARGE": "layout_42"
+        },
+        "HOVER": {
+          "LARGE": "layout_43"
+        }
+      }
+    },
+    "widget_141": {
+      "uri": "widgets/common/text/",
+      "version": "1.2.0",
+      "label": "Text 46 copy 2 copy",
+      "config": {
+        "text": "<p style=\"text-align: center;\"><strong style=\"font-size: 12px; color: var(--dark-800);\">Veterans Interactive D3 Map &amp; Chart</strong></p>",
+        "placeholder": "<p><span style=\"color: var(--dark-800); font-size: 16px;\">Card title</span></p>",
+        "style": {
+          "verticalAlign": "start",
+          "wrap": true
+        }
+      },
+      "id": "widget_141"
+    },
+    "widget_142": {
+      "uri": "widgets/common/image/",
+      "version": "1.2.0",
+      "label": "Image 15 copy 3 copy",
+      "config": {
+        "functionConfig": {
+          "altText": "",
+          "toolTip": "",
+          "linkParam": {},
+          "scale": "Fit",
+          "imageParam": {
+            "url": "https://github.com/jhansel1/d3_files/blob/main/Lab2_Veterans.png?raw=true",
+            "originalUrl": "https://github.com/jhansel1/d3_files/blob/main/Lab2_Veterans.png?raw=true",
+            "fileName": "Lab2_Veterans.png",
+            "originalName": "Lab2_Veterans.png",
+            "imgSourceType": "BY_URL",
+            "cropParam": {
+              "svgViewBox": "0 0 28 28",
+              "svgPath": "M0 0v28h28V0H0z",
+              "cropShape": "rectangle"
+            }
+          },
+          "imgSourceType": "",
+          "srcExpression": null,
+          "imageFillMode": "FILL"
+        },
+        "styleConfig": {}
+      },
+      "id": "widget_142"
+    },
+    "widget_143": {
+      "uri": "widgets/common/button/",
+      "version": "1.2.0",
+      "label": "Button 2 copy 2 copy",
+      "config": {
+        "functionConfig": {
+          "text": "View Details",
+          "textExpression": null,
+          "linkParam": {
+            "linkType": "VIEW",
+            "openType": "_self",
+            "value": "page_0,view_5"
+          }
+        },
+        "styleConfig": {
+          "useCustom": true,
+          "customStyle": {
+            "regular": {
+              "background": {
+                "color": "var(--info-300)",
+                "fillType": "fill"
+              },
+              "border": {
+                "type": "solid",
+                "color": "#ffffff",
+                "width": "0px"
+              },
+              "text": {
+                "color": "var(--black)",
+                "size": "10px",
+                "bold": true
+              },
+              "borderRadius": {
+                "number": [
+                  20
+                ],
+                "unit": "px"
+              },
+              "iconProps": {
+                "color": "var(--black)",
+                "size": 14
+              }
+            },
+            "hover": {
+              "background": {
+                "color": "var(--warning)",
+                "fillType": "fill"
+              },
+              "border": {
+                "type": "solid",
+                "width": "undefinedpx"
+              },
+              "text": {
+                "size": "10px",
+                "bold": true,
+                "color": "var(--light-300)"
+              },
+              "borderRadius": {
+                "number": [
+                  20
+                ],
+                "unit": "px"
+              },
+              "iconProps": {
+                "size": 14
+              }
+            }
+          }
+        }
+      },
+      "id": "widget_143",
+      "useDataSources": []
+    },
+    "widget_148": {
+      "uri": "widgets/common/card/",
+      "version": "1.2.0",
+      "label": "Card 1 copy 2 copy 2",
+      "config": {
+        "REGULAR": {
+          "enable": true,
+          "backgroundStyle": {
+            "border": {
+              "type": "solid",
+              "color": "var(--light-400)",
+              "width": "1px"
+            },
+            "background": {
+              "color": "",
+              "fillType": "fit",
+              "image": {
+                "url": ""
+              }
+            }
+          }
+        },
+        "HOVER": {
+          "enable": false,
+          "backgroundStyle": {
+            "border": {
+              "type": "solid",
+              "color": "var(--light-400)",
+              "width": "1px"
+            },
+            "boxShadow": {
+              "offsetX": "0px",
+              "offsetY": "0px",
+              "blur": "0px",
+              "spread": "0px",
+              "color": ""
+            },
+            "background": {
+              "color": "",
+              "fillType": "fit",
+              "image": {
+                "url": ""
+              }
+            }
+          }
+        },
+        "itemStyle": "STYLE2",
+        "direction": "Horizontal",
+        "isItemStyleConfirm": true,
+        "isOpenAdvabceSetting": false,
+        "isInitialed": true,
+        "transitionInfo": {
+          "transition": {
+            "type": "None",
+            "direction": "H"
+          },
+          "oneByOneEffect": null
+        }
+      },
+      "id": "widget_148",
+      "layouts": {
+        "REGULAR": {
+          "LARGE": "layout_44"
+        },
+        "HOVER": {
+          "LARGE": "layout_45"
+        }
+      }
+    },
+    "widget_149": {
+      "uri": "widgets/common/text/",
+      "version": "1.2.0",
+      "label": "Text 46 copy 2 copy 2",
+      "config": {
+        "text": "<p style=\"text-align: center;\"><strong style=\"font-size: 12px; color: var(--dark-800);\">Alaska Web Mapping App</strong></p>",
+        "placeholder": "<p><span style=\"color: var(--dark-800); font-size: 16px;\">Card title</span></p>",
+        "style": {
+          "verticalAlign": "start",
+          "wrap": true
+        }
+      },
+      "id": "widget_149"
+    },
+    "widget_150": {
+      "uri": "widgets/common/image/",
+      "version": "1.2.0",
+      "label": "Image 15 copy 3 copy 2",
+      "config": {
+        "functionConfig": {
+          "altText": "",
+          "toolTip": "",
+          "linkParam": {},
+          "scale": "Fit",
+          "imageParam": {
+            "url": "https://github.com/jhansel1/d3_files/blob/main/575_Final_Alaska.png?raw=true",
+            "originalUrl": "https://github.com/jhansel1/d3_files/blob/main/575_Final_Alaska.png?raw=true",
+            "fileName": "575_Final_Alaska.png",
+            "originalName": "575_Final_Alaska.png",
+            "imgSourceType": "BY_URL",
+            "cropParam": {
+              "svgViewBox": "0 0 28 28",
+              "svgPath": "M0 0v28h28V0H0z",
+              "cropShape": "rectangle"
+            }
+          },
+          "imgSourceType": "",
+          "srcExpression": null,
+          "imageFillMode": "FILL"
+        },
+        "styleConfig": {}
+      },
+      "id": "widget_150"
+    },
+    "widget_151": {
+      "uri": "widgets/common/button/",
+      "version": "1.2.0",
+      "label": "Button 2 copy 2 copy 2",
+      "config": {
+        "functionConfig": {
+          "text": "View Details",
+          "textExpression": null,
+          "linkParam": {
+            "linkType": "VIEW",
+            "openType": "_self",
+            "value": "page_0,view_6"
+          }
+        },
+        "styleConfig": {
+          "useCustom": true,
+          "customStyle": {
+            "regular": {
+              "background": {
+                "color": "var(--info-300)",
+                "fillType": "fill"
+              },
+              "border": {
+                "type": "solid",
+                "color": "#ffffff",
+                "width": "0px"
+              },
+              "text": {
+                "color": "var(--black)",
+                "size": "10px",
+                "bold": true
+              },
+              "borderRadius": {
+                "number": [
+                  20
+                ],
+                "unit": "px"
+              },
+              "iconProps": {
+                "color": "var(--black)",
+                "size": 14
+              }
+            },
+            "hover": {
+              "background": {
+                "color": "var(--warning)",
+                "fillType": "fill"
+              },
+              "border": {
+                "type": "solid",
+                "width": "undefinedpx"
+              },
+              "text": {
+                "size": "10px",
+                "color": "var(--light-300)",
+                "bold": true
+              },
+              "borderRadius": {
+                "number": [
+                  20
+                ],
+                "unit": "px"
+              },
+              "iconProps": {
+                "size": 14
+              }
+            }
+          }
+        }
+      },
+      "id": "widget_151",
+      "useDataSources": []
+    },
+    "widget_156": {
+      "uri": "widgets/common/card/",
+      "version": "1.2.0",
+      "label": "Card 1 copy 2 copy 2 copy",
+      "config": {
+        "REGULAR": {
+          "enable": true,
+          "backgroundStyle": {
+            "border": {
+              "type": "solid",
+              "color": "var(--light-400)",
+              "width": "1px"
+            },
+            "background": {
+              "color": "",
+              "fillType": "fit",
+              "image": {
+                "url": ""
+              }
+            }
+          }
+        },
+        "HOVER": {
+          "enable": false,
+          "backgroundStyle": {
+            "border": {
+              "type": "solid",
+              "color": "var(--light-400)",
+              "width": "1px"
+            },
+            "boxShadow": {
+              "offsetX": "0px",
+              "offsetY": "0px",
+              "blur": "0px",
+              "spread": "0px",
+              "color": ""
+            },
+            "background": {
+              "color": "",
+              "fillType": "fit",
+              "image": {
+                "url": ""
+              }
+            }
+          }
+        },
+        "itemStyle": "STYLE2",
+        "direction": "Horizontal",
+        "isItemStyleConfirm": true,
+        "isOpenAdvabceSetting": false,
+        "isInitialed": true,
+        "transitionInfo": {
+          "transition": {
+            "type": "None",
+            "direction": "H"
+          },
+          "oneByOneEffect": null
+        }
+      },
+      "id": "widget_156",
+      "layouts": {
+        "REGULAR": {
+          "LARGE": "layout_46"
+        },
+        "HOVER": {
+          "LARGE": "layout_47"
+        }
+      }
+    },
+    "widget_157": {
+      "uri": "widgets/common/text/",
+      "version": "1.2.0",
+      "label": "Text 46 copy 2 copy 2 copy",
+      "config": {
+        "text": "<p style=\"text-align: center;\"><strong style=\"color: var(--dark-800); font-size: 12px;\">Wisconsin Spatial Analysis Slippy Map</strong></p>",
+        "placeholder": "<p><span style=\"color: var(--dark-800); font-size: 16px;\">Card title</span></p>",
+        "style": {
+          "verticalAlign": "start",
+          "wrap": true
+        }
+      },
+      "id": "widget_157"
+    },
+    "widget_158": {
+      "uri": "widgets/common/image/",
+      "version": "1.2.0",
+      "label": "Image 15 copy 3 copy 2 copy",
+      "config": {
+        "functionConfig": {
+          "altText": "",
+          "toolTip": "",
+          "linkParam": {},
+          "scale": "Fit",
+          "imageParam": {
+            "url": "https://github.com/jhansel1/d3_files/blob/main/777_Lab1.png?raw=true",
+            "originalUrl": "https://github.com/jhansel1/d3_files/blob/main/777_Lab1.png?raw=true",
+            "fileName": "777_Lab1.png",
+            "originalName": "777_Lab1.png",
+            "imgSourceType": "BY_URL",
+            "cropParam": {
+              "svgViewBox": "0 0 28 28",
+              "svgPath": "M0 0v28h28V0H0z",
+              "cropShape": "rectangle"
+            }
+          },
+          "imgSourceType": "",
+          "srcExpression": null,
+          "imageFillMode": "FILL"
+        },
+        "styleConfig": {}
+      },
+      "id": "widget_158"
+    },
+    "widget_159": {
+      "uri": "widgets/common/button/",
+      "version": "1.2.0",
+      "label": "Button 2 copy 2 copy 2 copy",
+      "config": {
+        "functionConfig": {
+          "text": "View Details",
+          "textExpression": null,
+          "linkParam": {
+            "linkType": "VIEW",
+            "openType": "_self",
+            "value": "page_0,view_7"
+          }
+        },
+        "styleConfig": {
+          "useCustom": true,
+          "customStyle": {
+            "regular": {
+              "background": {
+                "color": "var(--info-300)",
+                "fillType": "fill"
+              },
+              "border": {
+                "type": "solid",
+                "color": "#ffffff",
+                "width": "0px"
+              },
+              "text": {
+                "color": "var(--black)",
+                "size": "10px",
+                "bold": true
+              },
+              "borderRadius": {
+                "number": [
+                  20
+                ],
+                "unit": "px"
+              },
+              "iconProps": {
+                "color": "var(--black)",
+                "size": 14
+              }
+            },
+            "hover": {
+              "background": {
+                "color": "var(--warning)",
+                "fillType": "fill"
+              },
+              "border": {
+                "type": "solid",
+                "width": "undefinedpx"
+              },
+              "text": {
+                "size": "10px",
+                "color": "var(--light-300)",
+                "bold": true
+              },
+              "borderRadius": {
+                "number": [
+                  20
+                ],
+                "unit": "px"
+              },
+              "iconProps": {
+                "size": 14
+              }
+            }
+          }
+        }
+      },
+      "id": "widget_159",
+      "useDataSources": []
+    },
+    "widget_164": {
+      "uri": "widgets/common/card/",
+      "version": "1.2.0",
+      "label": "Card 1 copy 2 copy 2 copy 2",
+      "config": {
+        "REGULAR": {
+          "enable": true,
+          "backgroundStyle": {
+            "border": {
+              "type": "solid",
+              "color": "var(--light-400)",
+              "width": "1px"
+            },
+            "background": {
+              "color": "",
+              "fillType": "fit",
+              "image": {
+                "url": ""
+              }
+            }
+          }
+        },
+        "HOVER": {
+          "enable": false,
+          "backgroundStyle": {
+            "border": {
+              "type": "solid",
+              "color": "var(--light-400)",
+              "width": "1px"
+            },
+            "boxShadow": {
+              "offsetX": "0px",
+              "offsetY": "0px",
+              "blur": "0px",
+              "spread": "0px",
+              "color": ""
+            },
+            "background": {
+              "color": "",
+              "fillType": "fit",
+              "image": {
+                "url": ""
+              }
+            }
+          }
+        },
+        "itemStyle": "STYLE2",
+        "direction": "Horizontal",
+        "isItemStyleConfirm": true,
+        "isOpenAdvabceSetting": false,
+        "isInitialed": true,
+        "transitionInfo": {
+          "transition": {
+            "type": "None",
+            "direction": "H"
+          },
+          "oneByOneEffect": null
+        }
+      },
+      "id": "widget_164",
+      "layouts": {
+        "REGULAR": {
+          "LARGE": "layout_48"
+        },
+        "HOVER": {
+          "LARGE": "layout_49"
+        }
+      }
+    },
+    "widget_165": {
+      "uri": "widgets/common/text/",
+      "version": "1.2.0",
+      "label": "Text 46 copy 2 copy 2 copy 2",
+      "config": {
+        "text": "<p style=\"text-align: center;\"><strong style=\"color: var(--dark-800); font-size: 12px;\">Acadia NP Web Mapping App</strong></p>",
+        "placeholder": "<p><span style=\"color: var(--dark-800); font-size: 16px;\">Card title</span></p>",
+        "style": {
+          "verticalAlign": "start",
+          "wrap": true
+        }
+      },
+      "id": "widget_165"
+    },
+    "widget_166": {
+      "uri": "widgets/common/image/",
+      "version": "1.2.0",
+      "label": "Image 15 copy 3 copy 2 copy 2",
+      "config": {
+        "functionConfig": {
+          "altText": "",
+          "toolTip": "",
+          "linkParam": {},
+          "scale": "Fit",
+          "imageParam": {
+            "url": "https://github.com/jhansel1/d3_files/blob/main/777_Lab2.png?raw=true",
+            "originalUrl": "https://github.com/jhansel1/d3_files/blob/main/777_Lab2.png?raw=true",
+            "fileName": "777_Lab2.png",
+            "originalName": "777_Lab2.png",
+            "imgSourceType": "BY_URL",
+            "cropParam": {
+              "svgViewBox": "0 0 28 28",
+              "svgPath": "M0 0v28h28V0H0z",
+              "cropShape": "rectangle"
+            }
+          },
+          "imgSourceType": "",
+          "srcExpression": null,
+          "imageFillMode": "FILL"
+        },
+        "styleConfig": {}
+      },
+      "id": "widget_166"
+    },
+    "widget_167": {
+      "uri": "widgets/common/button/",
+      "version": "1.2.0",
+      "label": "Button 2 copy 2 copy 2 copy 2",
+      "config": {
+        "functionConfig": {
+          "text": "View Details",
+          "textExpression": null,
+          "linkParam": {
+            "linkType": "VIEW",
+            "openType": "_self",
+            "value": "page_0,view_8"
+          }
+        },
+        "styleConfig": {
+          "useCustom": true,
+          "customStyle": {
+            "regular": {
+              "background": {
+                "color": "var(--info-300)",
+                "fillType": "fill"
+              },
+              "border": {
+                "type": "solid",
+                "color": "#ffffff",
+                "width": "0px"
+              },
+              "text": {
+                "color": "var(--black)",
+                "size": "10px",
+                "bold": true
+              },
+              "borderRadius": {
+                "number": [
+                  20
+                ],
+                "unit": "px"
+              },
+              "iconProps": {
+                "color": "var(--black)",
+                "size": 14
+              }
+            },
+            "hover": {
+              "background": {
+                "color": "var(--warning)",
+                "fillType": "fill"
+              },
+              "border": {
+                "type": "solid",
+                "width": "undefinedpx"
+              },
+              "text": {
+                "size": "10px",
+                "bold": true,
+                "color": "var(--light-300)"
+              },
+              "borderRadius": {
+                "number": [
+                  20
+                ],
+                "unit": "px"
+              },
+              "iconProps": {
+                "size": 14
+              }
+            }
+          }
+        }
+      },
+      "id": "widget_167",
+      "useDataSources": []
+    },
+    "widget_172": {
+      "uri": "widgets/common/card/",
+      "version": "1.2.0",
+      "label": "Card 1 copy 2 copy 2 copy copy",
+      "config": {
+        "REGULAR": {
+          "enable": true,
+          "backgroundStyle": {
+            "border": {
+              "type": "solid",
+              "color": "var(--light-400)",
+              "width": "1px"
+            },
+            "background": {
+              "color": "",
+              "fillType": "fit",
+              "image": {
+                "url": ""
+              }
+            }
+          }
+        },
+        "HOVER": {
+          "enable": false,
+          "backgroundStyle": {
+            "border": {
+              "type": "solid",
+              "color": "var(--light-400)",
+              "width": "1px"
+            },
+            "boxShadow": {
+              "offsetX": "0px",
+              "offsetY": "0px",
+              "blur": "0px",
+              "spread": "0px",
+              "color": ""
+            },
+            "background": {
+              "color": "",
+              "fillType": "fit",
+              "image": {
+                "url": ""
+              }
+            }
+          }
+        },
+        "itemStyle": "STYLE2",
+        "direction": "Horizontal",
+        "isItemStyleConfirm": true,
+        "isOpenAdvabceSetting": false,
+        "isInitialed": true,
+        "transitionInfo": {
+          "transition": {
+            "type": "None",
+            "direction": "H"
+          },
+          "oneByOneEffect": null
+        }
+      },
+      "id": "widget_172",
+      "layouts": {
+        "REGULAR": {
+          "LARGE": "layout_50"
+        },
+        "HOVER": {
+          "LARGE": "layout_51"
+        }
+      }
+    },
+    "widget_173": {
+      "uri": "widgets/common/text/",
+      "version": "1.2.0",
+      "label": "Text 46 copy 2 copy 2 copy copy",
+      "config": {
+        "text": "<p style=\"text-align: center;\"><strong style=\"font-size: 12px; color: var(--dark-800);\">Exonerations Web App Experience</strong></p>",
+        "placeholder": "<p><span style=\"color: var(--dark-800); font-size: 16px;\">Card title</span></p>",
+        "style": {
+          "verticalAlign": "start",
+          "wrap": true
+        }
+      },
+      "id": "widget_173"
+    },
+    "widget_174": {
+      "uri": "widgets/common/image/",
+      "version": "1.2.0",
+      "label": "Image 15 copy 3 copy 2 copy copy",
+      "config": {
+        "functionConfig": {
+          "altText": "",
+          "toolTip": "",
+          "linkParam": {},
+          "scale": "Fit",
+          "imageParam": {
+            "url": "https://github.com/jhansel1/d3_files/blob/main/778_Final.png?raw=true",
+            "originalUrl": "https://github.com/jhansel1/d3_files/blob/main/778_Final.png?raw=true",
+            "fileName": "778_Final.png",
+            "originalName": "778_Final.png",
+            "imgSourceType": "BY_URL",
+            "cropParam": {
+              "svgViewBox": "0 0 28 28",
+              "svgPath": "M0 0v28h28V0H0z",
+              "cropShape": "rectangle"
+            }
+          },
+          "imgSourceType": "",
+          "srcExpression": null,
+          "imageFillMode": "FILL"
+        },
+        "styleConfig": {}
+      },
+      "id": "widget_174"
+    },
+    "widget_175": {
+      "uri": "widgets/common/button/",
+      "version": "1.2.0",
+      "label": "Button 2 copy 2 copy 2 copy copy",
+      "config": {
+        "functionConfig": {
+          "text": "View Details",
+          "textExpression": null,
+          "linkParam": {
+            "linkType": "VIEW",
+            "openType": "_self",
+            "value": "page_0,view_9"
+          }
+        },
+        "styleConfig": {
+          "useCustom": true,
+          "customStyle": {
+            "regular": {
+              "background": {
+                "color": "var(--info-300)",
+                "fillType": "fill"
+              },
+              "border": {
+                "type": "solid",
+                "color": "#ffffff",
+                "width": "0px"
+              },
+              "text": {
+                "color": "var(--black)",
+                "size": "10px",
+                "bold": true
+              },
+              "borderRadius": {
+                "number": [
+                  20
+                ],
+                "unit": "px"
+              },
+              "iconProps": {
+                "color": "var(--black)",
+                "size": 14
+              }
+            },
+            "hover": {
+              "background": {
+                "color": "var(--warning)",
+                "fillType": "fill"
+              },
+              "border": {
+                "type": "solid",
+                "width": "undefinedpx"
+              },
+              "text": {
+                "size": "10px",
+                "color": "var(--light-300)",
+                "bold": true
+              },
+              "borderRadius": {
+                "number": [
+                  20
+                ],
+                "unit": "px"
+              },
+              "iconProps": {
+                "size": 14
+              }
+            }
+          }
+        }
+      },
+      "id": "widget_175",
+      "useDataSources": []
+    },
+    "widget_180": {
+      "uri": "widgets/common/text/",
+      "version": "1.2.0",
+      "label": "Text 50",
+      "config": {
+        "text": "<p style=\"text-align: center;\"><span style=\"font-size: 36px; text-shadow: rgba(0, 0, 0, 0.2) 0px 2px 0px, rgba(0, 0, 0, 0.3) -2px 4px 2px; color: var(--warning);\">Welcome to my Portfolio!</span></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"font-size: 36px; text-shadow: rgba(0, 0, 0, 0.2) 0px 2px 0px, rgba(0, 0, 0, 0.3) -2px 4px 2px; color: var(--warning);\">Please click the \"View Details\" button on a project to see more details.</span></p>",
+        "placeholder": "Double click to edit text",
+        "style": {
+          "verticalAlign": "start",
+          "wrap": true
+        }
+      },
+      "id": "widget_180"
+    },
+    "widget_181": {
+      "uri": "widgets/common/image/",
+      "version": "1.2.0",
+      "label": "Image 16",
+      "config": {
+        "functionConfig": {
+          "altText": "",
+          "toolTip": "",
+          "linkParam": {},
+          "scale": "Fit",
+          "imageParam": {
+            "url": "https://github.com/jhansel1/d3_files/blob/main/Infographic_Whole.png?raw=true",
+            "originalUrl": "https://github.com/jhansel1/d3_files/blob/main/Infographic_Whole.png?raw=true",
+            "fileName": "Infographic_Whole.png",
+            "originalName": "Infographic_Whole.png",
+            "imgSourceType": "BY_URL"
+          },
+          "imgSourceType": "",
+          "srcExpression": null,
+          "imageFillMode": "FIT"
+        },
+        "styleConfig": {}
+      },
+      "id": "widget_181"
+    },
+    "widget_182": {
+      "uri": "widgets/common/text/",
+      "version": "1.2.0",
+      "label": "Text 51",
+      "config": {
+        "text": "<p style=\"text-align: center;\"><strong style=\"font-size: 24px; color: var(--warning);\">SALMON MIGRATION INFOGRAPHIC</strong></p><p><br></p><p><strong><u>Description</u></strong></p><p>This infographic illustrates the lifecycle of the Pacific Chinook \"King\" Salmon along the Columbia River.  The product includes research, pictures, statistics, charts, and maps.  Two custom maps were created for the dams on the Columbia river with the seasonal migration tributaries and a proportional symbol showing the salmon counts recorded at the dams for each season.</p><p><br></p><p><strong><u>Skills</u></strong></p><p>Cartography | Proportional Symbols</p><p><br></p><p><strong><u>Software/Programming</u></strong></p><p>Adobe Illustrator | Adobe Photoshop | ArcGIS Desktop | Microsoft Excel</p><p><br></p><p><a href=\"https://github.com/jhansel1/jhansel1.github.io/blob/master/assets/infographic_full.png?raw=true\" target=\"_blank\" data-uniqueid=\"8f158533_2227_9d97_8736_e9c254603946\" data-dsid=\"\" data-link=\"%7B%22linkType%22%3A%22WEB_ADDRESS%22%2C%22openType%22%3A%22_blank%22%2C%22value%22%3A%22https%3A%2F%2Fgithub.com%2Fjhansel1%2Fjhansel1.github.io%2Fblob%2Fmaster%2Fassets%2Finfographic_full.png%3Fraw%3Dtrue%22%2C%22expression%22%3Anull%7D\">Click to View</a></p>",
+        "placeholder": "Double click to edit text",
+        "style": {
+          "verticalAlign": "start",
+          "wrap": true
+        }
+      },
+      "id": "widget_182"
+    },
+    "widget_183": {
+      "uri": "widgets/common/image/",
+      "version": "1.2.0",
+      "label": "Image 16 copy",
+      "config": {
+        "functionConfig": {
+          "altText": "",
+          "toolTip": "",
+          "linkParam": {},
+          "scale": "Fit",
+          "imageParam": {
+            "url": "https://jhansel1.github.io/assets/bike_map_thumb2.png",
+            "originalUrl": "https://jhansel1.github.io/assets/bike_map_thumb2.png",
+            "fileName": "bike_map_thumb2.png",
+            "originalName": "bike_map_thumb2.png",
+            "imgSourceType": "BY_URL"
+          },
+          "imgSourceType": "",
+          "srcExpression": null,
+          "imageFillMode": "FIT"
+        },
+        "styleConfig": {}
+      },
+      "id": "widget_183"
+    },
+    "widget_184": {
+      "uri": "widgets/common/text/",
+      "version": "1.2.0",
+      "label": "Text 51 copy",
+      "config": {
+        "text": "<p style=\"text-align: center;\"><strong style=\"font-size: 24px; color: var(--warning);\">BIKE THE GREAT LAKES PROFESSIONAL CARTOGRAPHY </strong></p><p><br></p><p><strong><u>Description</u></strong></p><p>This map displays a conceptual 21-stage bike race beginning in Thunder Bay, Ontario and finishing in Quebec City, Quebec.  It is broken out into 23 days averaging nearly 100 miles per day with two rest days.  The map features a custom shaded relief and hillshade background.  Other supporting data and layers have been added to the map including pictures, text, scale bar, and an elevation profile.</p><p><br></p><p><strong><u>Skills</u></strong></p><p>Cartography | Digital Elevation Models | Land Cover</p><p><br></p><p><strong><u>Software/Programming</u></strong></p><p>Adobe Illustrator | Adobe Photoshop | ArcGIS Desktop | Google Earth</p><p><br></p><p><a href=\"https://github.com/jhansel1/jhansel1.github.io/blob/master/assets/bike_map_full.png?raw=true\" target=\"_blank\" data-uniqueid=\"fd4bc5d7_1230_3f94_285f_528c1594c459\" data-dsid=\"\" data-link=\"%7B%22linkType%22%3A%22WEB_ADDRESS%22%2C%22openType%22%3A%22_blank%22%2C%22value%22%3A%22https%3A%2F%2Fgithub.com%2Fjhansel1%2Fjhansel1.github.io%2Fblob%2Fmaster%2Fassets%2Fbike_map_full.png%3Fraw%3Dtrue%22%2C%22expression%22%3Anull%7D\">Click to View</a></p>",
+        "placeholder": "Double click to edit text",
+        "style": {
+          "verticalAlign": "start",
+          "wrap": true
+        }
+      },
+      "id": "widget_184"
+    },
+    "widget_185": {
+      "uri": "widgets/common/image/",
+      "version": "1.2.0",
+      "label": "Image 16 copy copy",
+      "config": {
+        "functionConfig": {
+          "altText": "",
+          "toolTip": "",
+          "linkParam": {},
+          "scale": "Fit",
+          "imageParam": {
+            "url": "https://github.com/jhansel1/d3_files/blob/main/Lab1_CTA.png?raw=true",
+            "originalUrl": "https://github.com/jhansel1/d3_files/blob/main/Lab1_CTA.png?raw=true",
+            "fileName": "Lab1_CTA.png",
+            "originalName": "Lab1_CTA.png",
+            "imgSourceType": "BY_URL"
+          },
+          "imgSourceType": "",
+          "srcExpression": null,
+          "imageFillMode": "FIT"
+        },
+        "styleConfig": {}
+      },
+      "id": "widget_185"
+    },
+    "widget_186": {
+      "uri": "widgets/common/text/",
+      "version": "1.2.0",
+      "label": "Text 51 copy copy",
+      "config": {
+        "text": "<p style=\"text-align: center;\"><strong style=\"font-size: 24px; color: var(--warning);\">CHICAGO TRANSIT AUTHORITY RED LINE MONTHLY CUSTOMERS SLIPPY MAP  </strong></p><p><br></p><p><strong><u>Description</u></strong></p><p>This product is a full web page complete with a slippy map.  The map features proportional symbols and a timeline widget for monthly customers for each stop on the Red Line.  The timeline can be advanced to change the data for each month.</p><p><br></p><p><strong><u>Skills</u></strong></p><p>GeoJSON/TopoJSON | Proportional Symbols | Timeslider</p><p><br></p><p><strong><u>Software/Programming</u></strong></p><p>ArcGIS Pro | CSS | HTML | JavaScript - Bootstrap, JQuery, Leaflet</p><p><br></p><p><a href=\"https://jhansel1.github.io/Lab1/\" target=\"_blank\" data-uniqueid=\"e16eac05_46f5_90c6_820c_43c8e7136b0d\" data-dsid=\"\" data-link=\"%7B%22linkType%22%3A%22WEB_ADDRESS%22%2C%22openType%22%3A%22_blank%22%2C%22value%22%3A%22https%3A%2F%2Fjhansel1.github.io%2FLab1%2F%22%2C%22expression%22%3Anull%7D\">Click to View</a></p>",
+        "placeholder": "Double click to edit text",
+        "style": {
+          "verticalAlign": "start",
+          "wrap": true
+        }
+      },
+      "id": "widget_186"
+    },
+    "widget_187": {
+      "uri": "widgets/common/image/",
+      "version": "1.2.0",
+      "label": "Image 16 copy copy copy",
+      "config": {
+        "functionConfig": {
+          "altText": "",
+          "toolTip": "",
+          "linkParam": {},
+          "scale": "Fit",
+          "imageParam": {
+            "url": "https://github.com/jhansel1/d3_files/blob/main/Lab2_Veterans.png?raw=true",
+            "originalUrl": "https://github.com/jhansel1/d3_files/blob/main/Lab2_Veterans.png?raw=true",
+            "fileName": "Lab2_Veterans.png",
+            "originalName": "Lab2_Veterans.png",
+            "imgSourceType": "BY_URL"
+          },
+          "imgSourceType": "",
+          "srcExpression": null,
+          "imageFillMode": "FIT"
+        },
+        "styleConfig": {}
+      },
+      "id": "widget_187"
+    },
+    "widget_188": {
+      "uri": "widgets/common/text/",
+      "version": "1.2.0",
+      "label": "Text 51 copy copy copy",
+      "config": {
+        "text": "<p style=\"text-align: center;\"><strong style=\"color: var(--warning); font-size: 24px;\">VETERANS PER STATE INTERACTIVE D3 MAP AND CHART  </strong></p><p><br></p><p><strong><u>Description</u></strong></p><p>This product illustrates the percentage of veterans per state using D3 visualizations.  There is an attribute dropdown to further filter the data to veterans of recent wars.  Both the map and chart are dynamically linked and have tooltips to interact with the dataset.</p><p><br></p><p><strong><u>Skills</u></strong></p><p>Attribute Filter | GeoJSON/TopoJSON | Tooltips</p><p><br></p><p><strong><u>Software/Programming</u></strong></p><p>CSS | HTML | JavaScript - Bootstrap, D3, JQuery</p><p><br></p><p><a href=\"https://jhansel1.github.io/Lab2/\" target=\"_blank\" data-uniqueid=\"4f199ba5_209b_ff8f_c56a_ed8bb5bf0ef0\" data-dsid=\"\" data-link=\"%7B%22linkType%22%3A%22WEB_ADDRESS%22%2C%22openType%22%3A%22_blank%22%2C%22value%22%3A%22https%3A%2F%2Fjhansel1.github.io%2FLab2%2F%22%2C%22expression%22%3Anull%7D\">Click to View</a></p>",
+        "placeholder": "Double click to edit text",
+        "style": {
+          "verticalAlign": "start",
+          "wrap": true
+        }
+      },
+      "id": "widget_188"
+    },
+    "widget_189": {
+      "uri": "widgets/common/image/",
+      "version": "1.2.0",
+      "label": "Image 16 copy copy copy copy",
+      "config": {
+        "functionConfig": {
+          "altText": "",
+          "toolTip": "",
+          "linkParam": {},
+          "scale": "Fit",
+          "imageParam": {
+            "url": "https://github.com/jhansel1/d3_files/blob/main/575_Final_Alaska.png?raw=true",
+            "originalUrl": "https://github.com/jhansel1/d3_files/blob/main/575_Final_Alaska.png?raw=true",
+            "fileName": "575_Final_Alaska.png",
+            "originalName": "575_Final_Alaska.png",
+            "imgSourceType": "BY_URL"
+          },
+          "imgSourceType": "",
+          "srcExpression": null,
+          "imageFillMode": "FIT"
+        },
+        "styleConfig": {}
+      },
+      "id": "widget_189"
+    },
+    "widget_190": {
+      "uri": "widgets/common/text/",
+      "version": "1.2.0",
+      "label": "Text 51 copy copy copy copy",
+      "config": {
+        "text": "<p style=\"text-align: center;\"><strong style=\"color: var(--warning); font-size: 24px;\">ALASKA PER STATE INTERACTIVE D3 MAP AND CHART  </strong></p><p><br></p><p><strong><u>Description</u></strong></p><p>This web mapping application features a slippy map of annual attendance to the 15 National Parks in Alaska.  The park polygons are dynamic and will display the visitors per year chart when hovering.  The park boundaries also display as a choropleth layer after clicking on one.</p><p><br></p><p><strong><u>Skills</u></strong></p><p>Choropleth | GeoJSON/TopoJSON | Tooltips</p><p><br></p><p><strong><u>Software/Programming</u></strong></p><p>ArcGIS | CSS | HTML | JavaScript - Bootstrap, D3, JQuery, Leaflet</p><p><br></p><p><a href=\"https://jhansel1.github.io/575_final/\" target=\"_blank\" data-uniqueid=\"54bb08d0_0a57_aae9_3198_0538bf7a7f34\" data-dsid=\"\" data-link=\"%7B%22linkType%22%3A%22WEB_ADDRESS%22%2C%22openType%22%3A%22_blank%22%2C%22value%22%3A%22https%3A%2F%2Fjhansel1.github.io%2F575_final%2F%22%2C%22expression%22%3Anull%7D\">Click to View</a></p>",
+        "placeholder": "Double click to edit text",
+        "style": {
+          "verticalAlign": "start",
+          "wrap": true
+        }
+      },
+      "id": "widget_190"
+    },
+    "widget_191": {
+      "uri": "widgets/common/image/",
+      "version": "1.2.0",
+      "label": "Image 16 copy copy copy copy copy",
+      "config": {
+        "functionConfig": {
+          "altText": "",
+          "toolTip": "",
+          "linkParam": {},
+          "scale": "Fit",
+          "imageParam": {
+            "url": "https://github.com/jhansel1/d3_files/blob/main/777_Lab1.png?raw=true",
+            "originalUrl": "https://github.com/jhansel1/d3_files/blob/main/777_Lab1.png?raw=true",
+            "fileName": "777_Lab1.png",
+            "originalName": "777_Lab1.png",
+            "imgSourceType": "BY_URL"
+          },
+          "imgSourceType": "",
+          "srcExpression": null,
+          "imageFillMode": "FIT"
+        },
+        "styleConfig": {}
+      },
+      "id": "widget_191"
+    },
+    "widget_192": {
+      "uri": "widgets/common/text/",
+      "version": "1.2.0",
+      "label": "Text 51 copy copy copy copy copy",
+      "config": {
+        "text": "<p style=\"text-align: center;\"><strong style=\"font-size: 24px; color: var(--warning);\">WISCONSIN SPATIAL ANALYSIS OF NITRATE CONCENTRATIONS AND CANCER RATES  </strong></p><p><br></p><p><strong><u>Description</u></strong></p><p>This product features interactive spatial analysis to review the possible link between nitrate concentrations and cancer rates.  Spatial interpolation can be compared by changing the K-value and cell size.  The linear regression can be computed after the new interpolation layer has been created.  </p><p><br></p><p><strong><u>Skills</u></strong></p><p>Choropleth | GeoJSON/TopoJSON | Linear Regression | Spatial Interpolation</p><p><br></p><p><strong><u>Software/Programming</u></strong></p><p>ArcGIS | CSS | HTML | JavaScript - Bootstrap, JQuery, Leaflet, Simple Statistics, Turf</p><p><br></p><p><a href=\"https://jhansel1.github.io/777_lab1/\" target=\"_blank\" data-uniqueid=\"13b1a924_e7f3_f1e0_4b38_e1660d85d3e5\" data-dsid=\"\" data-link=\"%7B%22linkType%22%3A%22WEB_ADDRESS%22%2C%22openType%22%3A%22_blank%22%2C%22value%22%3A%22https%3A%2F%2Fjhansel1.github.io%2F777_lab1%2F%22%2C%22expression%22%3Anull%7D\">Click to View</a></p>",
+        "placeholder": "Double click to edit text",
+        "style": {
+          "verticalAlign": "start",
+          "wrap": true
+        }
+      },
+      "id": "widget_192"
+    },
+    "widget_193": {
+      "uri": "widgets/common/image/",
+      "version": "1.2.0",
+      "label": "Image 16 copy copy copy copy copy copy",
+      "config": {
+        "functionConfig": {
+          "altText": "",
+          "toolTip": "",
+          "linkParam": {},
+          "scale": "Fit",
+          "imageParam": {
+            "url": "https://github.com/jhansel1/d3_files/blob/main/777_Lab2.png?raw=true",
+            "originalUrl": "https://github.com/jhansel1/d3_files/blob/main/777_Lab2.png?raw=true",
+            "fileName": "777_Lab2.png",
+            "originalName": "777_Lab2.png",
+            "imgSourceType": "BY_URL"
+          },
+          "imgSourceType": "",
+          "srcExpression": null,
+          "imageFillMode": "FIT"
+        },
+        "styleConfig": {}
+      },
+      "id": "widget_193"
+    },
+    "widget_194": {
+      "uri": "widgets/common/text/",
+      "version": "1.2.0",
+      "label": "Text 51 copy copy copy copy copy copy",
+      "config": {
+        "text": "<p style=\"text-align: center;\"><strong style=\"color: var(--warning); font-size: 24px;\">ACADIA NATIONAL PARK GIS APPLICATION   </strong></p><p><br></p><p><strong><u>Description</u></strong></p><p>This product is a full web page configured with a sidebar containing eight tabs.  The main map displays all the points of interest in Acadia National Park.  Hiking paths can be filtered with the dropdown selection.  There are also tools to select your location and finds features in your proximity.  The app also has a customer survey which then updates input on the map.  On the backend there are several layers feeding the app from a PostgreSQL database.</p><p><br></p><p><strong><u>Skills</u></strong></p><p>Attribute Filter | GeoJSON/TopoJSON | Proximity Search | Tooltips | User Survey</p><p><br></p><p><strong><u>Software/Programming</u></strong></p><p>CARTO | CARTO Builder | CSS | HTML | JavaScript - Bootstrap, JQuery, Leaflet | Mapbox | PostgreSQL</p>",
+        "placeholder": "Double click to edit text",
+        "style": {
+          "verticalAlign": "start",
+          "wrap": true
+        }
+      },
+      "id": "widget_194"
+    },
+    "widget_195": {
+      "uri": "widgets/common/image/",
+      "version": "1.2.0",
+      "label": "Image 16 copy copy copy copy copy copy copy",
+      "config": {
+        "functionConfig": {
+          "altText": "",
+          "toolTip": "",
+          "linkParam": {},
+          "scale": "Fit",
+          "imageParam": {
+            "url": "https://github.com/jhansel1/d3_files/blob/main/778_Final.png?raw=true",
+            "originalUrl": "https://github.com/jhansel1/d3_files/blob/main/778_Final.png?raw=true",
+            "fileName": "778_Final.png",
+            "originalName": "778_Final.png",
+            "imgSourceType": "BY_URL"
+          },
+          "imgSourceType": "",
+          "srcExpression": null,
+          "imageFillMode": "FIT"
+        },
+        "styleConfig": {}
+      },
+      "id": "widget_195"
+    },
+    "widget_196": {
+      "uri": "widgets/common/text/",
+      "version": "1.2.0",
+      "label": "Text 51 copy copy copy copy copy copy copy",
+      "config": {
+        "text": "<p style=\"text-align: center;\"><strong style=\"font-size: 24px; color: var(--warning);\">EXONERATIONS AND THE CRIMINAL JUSTICE SYSTEM ARCGIS EXPERIENCE </strong></p><p><br></p><p><strong><u>Description</u></strong></p><p>The product is a custom ArcGIS Experience created with Experience Builder Developer Edition.  The web page features two web maps with supporting widgets, two D3 interactive animated charts, and one ArcGIS Survey 123 form.</p><p><br></p><p><strong><u>Skills</u></strong></p><p>Interactive D3 Charts | SQL Query</p><p><br></p><p><strong><u>Software/Programming</u></strong></p><p>ArcGIS API for JavaScript | ArcGIS Experience Builder Developer Edition | ArcGIS Survey 123 | CSS | HTML | JavaScript - D3</p><p><br></p><p><a href=\"https://jhansel1.github.io/exb_git/\" target=\"_blank\" data-uniqueid=\"03f32863_a2b5_01ad_f6b8_469c9eee5ad8\" data-dsid=\"\" data-link=\"%7B%22linkType%22%3A%22WEB_ADDRESS%22%2C%22openType%22%3A%22_blank%22%2C%22value%22%3A%22https%3A%2F%2Fjhansel1.github.io%2Fexb_git%2F%22%2C%22expression%22%3Anull%7D\">Click to View</a></p>",
+        "placeholder": "Double click to edit text",
+        "style": {
+          "verticalAlign": "start",
+          "wrap": true
+        }
+      },
+      "id": "widget_196"
+    },
+    "widget_197": {
+      "uri": "widgets/layout/row/",
+      "version": "1.2.0",
+      "label": "Block 4",
+      "config": {
+        "space": 10,
+        "style": {
+          "padding": {
+            "number": [
+              10
+            ],
+            "unit": "px"
+          }
+        }
+      },
+      "id": "widget_197",
+      "layouts": {
+        "DEFAULT": {
+          "LARGE": "layout_61"
+        }
+      }
+    },
+    "widget_198": {
+      "uri": "widgets/layout/fixed/",
+      "version": "1.2.0",
+      "label": "Fixed Panel 4",
+      "id": "widget_198",
+      "layouts": {
+        "DEFAULT": {
+          "LARGE": "layout_62"
+        }
+      },
+      "style": {
+        "background": {
+          "color": "var(--info-100)",
+          "fillType": "fit",
+          "image": {
+            "url": ""
+          }
+        }
+      }
+    },
+    "widget_199": {
+      "uri": "widgets/common/text/",
+      "version": "1.2.0",
+      "label": "Text 52",
+      "config": {
+        "text": "<p style=\"text-align: center;\"><strong style=\"font-size: 12px;\">Career Highlights</strong></p><ul><li><span style=\"font-size: 11px;\">Over 15 years experience in the Intelligence Community, Department of Defense and Department of Homeland Security with specialized training and experience in geospatial support.</span></li><li><span style=\"font-size: 11px;\">Dynamic personality and professional leadership skills capable of handling enormous responsibility.</span></li><li><span style=\"font-size: 11px;\">Experienced in managing a multitude of tasks simultaneously, solving complex problems and arriving at effective solutions in a fast paced, time-sensitive environment.</span></li><li><span style=\"font-size: 11px;\">Exceptional communication and organizational skills gained from an extensive background of planning, exercises and real world operations. </span></li></ul><p><br></p><p style=\"text-align: center;\"><strong style=\"font-size: 12px;\">Education</strong></p><p><span style=\"font-size: 11px;\">George Mason University - Bachelor of Science Geography (2012)</span></p><p><span style=\"font-size: 11px;\">University of Wisconsin - Madison - Master of Science Cartography &amp; GIS (In Progress - 2020)</span></p><p><br></p><p style=\"text-align: center;\"><strong style=\"font-size: 12px;\">Experience</strong></p><p><strong style=\"font-size: 11px;\">Department of Veterans Affairs (Virtual) - June 2020 - Present</strong></p><ul><li><span style=\"font-size: 11px;\">Serve as the GIS Coordinator to the VHA Support Services Center (VSSC).</span></li><li><span style=\"font-size: 11px;\">Create healthcare related geospatial products for customers as needed.</span></li><li><span style=\"font-size: 11px;\">Assist in the maintenance of the ArcGIS Enterprise instance.</span></li><li><span style=\"font-size: 11px;\">Publish and maintain spatial data used in web applications and data analytics software.</span></li></ul><p><br></p><p><strong style=\"font-size: 11px;\">Federal Emergency Management Agency (Chicago, IL) - September 2016 – June 2020</strong></p><ul><li><span style=\"font-size: 11px;\">Serve as the Regional Geospatial Coordinator (RGC) for FEMA Region 5 covering Illinois, Indiana, Ohio, Michigan, Minnesota and Wisconsin.</span></li><li><span style=\"font-size: 11px;\">Produce and supervise production of Geographic Information Systems (GIS) static maps and interactive online maps to FEMA, other federal agencies, states and local governments.</span></li><li><span style=\"font-size: 11px;\">Maintain Region 5 ArcGIS Server’s data and services.</span></li><li><span style=\"font-size: 11px;\">Leverage FEMA’s GeoPlatform ArcGIS Online account and DHS’ Geospatial Information Infrastructure (GII) ArcGIS Portal to create custom web maps and applications for planning and disaster relief operations.</span></li><li><span style=\"font-size: 11px;\">Provide expertise to assist FEMA HQ with the development of a new cloud-based mapping platform and remote sensing prioritized collection strategy.</span></li><li><span style=\"font-size: 11px;\">Apply weather forecasts, census demographics and critical infrastructure/key resources data toprovide situational awareness to senior leadership and staff.</span></li><li><span style=\"font-size: 11px;\">Support regional planning efforts with geospatial response support for severe weather, earthquakes, power outages and national special security events.  </span></li></ul>",
+        "placeholder": "Double click to edit text",
+        "style": {
+          "verticalAlign": "start",
+          "wrap": true
+        }
+      },
+      "id": "widget_199"
+    },
+    "widget_200": {
+      "uri": "widgets/common/text/",
+      "version": "1.2.0",
+      "label": "Text 52 copy",
+      "config": {
+        "text": "<p><strong style=\"font-size: 11px;\">United States Army (Alexandria, VA) - June 2010 – September 2016</strong></p><ul><li><span style=\"font-size: 11px;\">Managed the GIS and imagery production of a diverse team including active duty Army personnel, federal civilians and contractors.</span></li><li><span style=\"font-size: 11px;\">Trained and mentored co-workers in the concepts of GIS, remote sensing phenomenology and collection management procedures.</span></li><li><span style=\"font-size: 11px;\">Standardized production workflows and instilled a thorough quality control/assurance process.</span></li><li><span style=\"font-size: 11px;\">Created geospatial products using Esri ArcGIS desktop software, ArcSDE and ArcGIS Server.</span></li><li><span style=\"font-size: 11px;\">Routinely used Remote View, SOCET GXP and ENVI to process and exploit imagery.</span></li><li><span style=\"font-size: 11px;\">Deployed to Germany and Iraq in support of special operations task forces.  </span></li></ul><p><br></p><p><strong style=\"font-size: 11px;\">National Geospatial-Intelligence Agency (Springfield, VA) - April 2009 – June 2010</strong></p><ul><li><span style=\"font-size: 11px;\">Produced visualization graphics and represented Source at NGA daily operations-intelligence briefs.</span></li><li><span style=\"font-size: 11px;\">Briefed source strategies to the director, executive staff and visiting VIPs with little to no supervision.</span></li><li><span style=\"font-size: 11px;\">Developed innovative techniques and models to better represent NTM, OPIR, commercial and airborne collection.</span></li><li><span style=\"font-size: 11px;\">Utilized RMS and GIMS tools to conduct advance research on complex collection issues.</span></li><li><span style=\"font-size: 11px;\">Coordinated airborne strategies with multiple agencies and COCOMs to help complement NTM collection.</span></li><li><span style=\"font-size: 11px;\">Responded to many high current issues and environmental disasters while coordinating with other entities of the intelligence community.  </span></li></ul><p><br></p><p><strong style=\"font-size: 11px;\">DELEX Systems Inc. (Washington D.C.) - August 2008 – April 2009</strong></p><ul><li><span style=\"font-size: 11px;\">Produced geospatial intelligence products in support of deploying Naval Riverine Squadrons.</span></li><li><span style=\"font-size: 11px;\">Applied imagery analysis techniques to exploit change detection and trend analysis.</span></li><li><span style=\"font-size: 11px;\">Edited, attributed and created vector datasets from imagery based data extraction.</span></li><li><span style=\"font-size: 11px;\">Created standard operating procedures for map production and data management and assisted in the design of new geospatial templates and database architecture.  </span></li></ul><p><br></p><p><strong style=\"font-size: 11px;\">United States Marine Corps (Active Duty/Multiple Locations) - October 2003 – October 2008</strong></p><ul><li><span style=\"font-size: 11px;\">Served as Topographic NCOIC in conventional military, naval expeditionary and special operations units throughout active duty career with multiple deployments to Guam, South Korea, Thailand, Philippines and Afghanistan.</span></li><li><span style=\"font-size: 11px;\">Produced custom geospatial products to include helicopter landing zones, beach landings, cross-country mobility, soil, vegetation, route and slope studies.</span></li><li><span style=\"font-size: 11px;\">Provided daily GEOINT analysis, crisis support and target packages (GRGs and 3D perspective views) to MARSOC special reconnaissance and direct action targeting efforts.</span></li></ul>",
+        "placeholder": "Double click to edit text",
+        "style": {
+          "verticalAlign": "start",
+          "wrap": true
+        }
+      },
+      "id": "widget_200"
+    },
+    "widget_201": {
+      "uri": "widgets/common/text/",
+      "version": "1.2.0",
+      "label": "Text 53",
+      "config": {
+        "text": "<p style=\"text-align: center;\"><strong style=\"font-family: Georgia; font-size: 24px; text-shadow: rgba(0, 0, 0, 0.4) 0px -4px 4px;\">PORTFOLIO</strong></p>",
+        "placeholder": "Double click to edit text",
+        "style": {
+          "verticalAlign": "start",
+          "wrap": true
+        }
+      },
+      "id": "widget_201"
+    },
+    "widget_202": {
+      "uri": "widgets/common/text/",
+      "version": "1.2.0",
+      "label": "Text 53 copy",
+      "config": {
+        "text": "<p style=\"text-align: center;\"><strong style=\"text-shadow: rgba(0, 0, 0, 0.4) 0px -4px 4px; font-size: 24px; font-family: Georgia;\">RESUME</strong></p>",
+        "placeholder": "Double click to edit text",
+        "style": {
+          "verticalAlign": "start",
+          "wrap": true
+        }
+      },
+      "id": "widget_202"
+    },
+    "widget_203": {
+      "uri": "widgets/common/divider/",
+      "version": "1.2.0",
+      "label": "Divider 1",
+      "config": {
+        "direction": "Horizontal",
+        "strokeStyle": {
+          "type": "Style0",
+          "color": "var(--warning)",
+          "size": "7px"
+        },
+        "pointStart": {
+          "pointStyle": "Point6",
+          "pointSize": 4.9
+        },
+        "pointEnd": {
+          "pointStyle": "None",
+          "pointSize": 4
+        },
+        "themeStyle": {
+          "quickStyleType": "None"
+        }
+      },
+      "id": "widget_203",
+      "style": {
+        "boxShadow": {
+          "offsetX": "0px",
+          "offsetY": "0px",
+          "blur": "2px",
+          "spread": "2px",
+          "color": "var(--secondary)"
+        }
+      }
+    },
+    "widget_204": {
+      "uri": "widgets/common/text/",
+      "version": "1.2.0",
+      "label": "Text 54",
+      "config": {
+        "text": "<p style=\"text-align: center;\"><strong style=\"font-size: 20px;\">• Cartographer • Geographer • Geospatial Analyst • GIS Developer • Imagery Analyst •</strong></p>",
+        "placeholder": "Double click to edit text",
+        "style": {
+          "verticalAlign": "start",
+          "wrap": true
+        }
+      },
+      "id": "widget_204"
+    },
+    "widget_205": {
+      "uri": "widgets/common/text/",
+      "version": "1.2.0",
+      "label": "Text 53 copy 2",
+      "config": {
+        "text": "<p style=\"text-align: center;\"><strong style=\"text-shadow: rgba(0, 0, 0, 0.4) 0px -4px 4px; font-size: 24px; font-family: Georgia;\">ABOUT ME</strong></p>",
+        "placeholder": "Double click to edit text",
+        "style": {
+          "verticalAlign": "start",
+          "wrap": true
+        }
+      },
+      "id": "widget_205"
+    },
+    "widget_206": {
+      "uri": "widgets/common/text/",
+      "version": "1.2.0",
+      "label": "Text 55",
+      "config": {
+        "text": "<p><strong style=\"font-size: 18px;\">test</strong></p>",
+        "placeholder": "Double click to edit text",
+        "style": {
+          "verticalAlign": "start",
+          "wrap": true
+        }
+      },
+      "id": "widget_206"
+    }
+  },
+  "widgetsManifest": {},
+  "views": {
+    "view_1": {
+      "id": "view_1",
+      "label": "Overview",
+      "layout": {
+        "LARGE": "layout_52"
+      },
+      "backgroundPosition": "fit",
+      "backgroundColor": "var(--light-300)",
+      "backgroundIMage": {}
+    },
+    "view_2": {
+      "id": "view_2",
+      "label": "Infographic",
+      "layout": {
+        "LARGE": "layout_53"
+      },
+      "backgroundPosition": "fit",
+      "backgroundColor": "var(--light-300)",
+      "backgroundIMage": {}
+    },
+    "view_3": {
+      "id": "view_3",
+      "label": "Bike Map",
+      "layout": {
+        "LARGE": "layout_54"
+      },
+      "backgroundPosition": "fit",
+      "backgroundColor": "var(--light-300)",
+      "backgroundIMage": {}
+    },
+    "view_4": {
+      "id": "view_4",
+      "label": "CTA Map",
+      "layout": {
+        "LARGE": "layout_55"
+      },
+      "backgroundPosition": "fit",
+      "backgroundColor": "var(--light-300)",
+      "backgroundIMage": {}
+    },
+    "view_5": {
+      "id": "view_5",
+      "label": "Veterans Map",
+      "layout": {
+        "LARGE": "layout_56"
+      },
+      "backgroundPosition": "fit",
+      "backgroundColor": "var(--light-300)",
+      "backgroundIMage": {}
+    },
+    "view_6": {
+      "id": "view_6",
+      "label": "Alaska Map",
+      "layout": {
+        "LARGE": "layout_57"
+      },
+      "backgroundPosition": "fit",
+      "backgroundColor": "var(--light-300)",
+      "backgroundIMage": {}
+    },
+    "view_7": {
+      "id": "view_7",
+      "label": "Wisconsin Map",
+      "layout": {
+        "LARGE": "layout_58"
+      },
+      "backgroundPosition": "fit",
+      "backgroundColor": "var(--light-300)",
+      "backgroundIMage": {}
+    },
+    "view_8": {
+      "id": "view_8",
+      "label": "Acadia NP",
+      "layout": {
+        "LARGE": "layout_59"
+      },
+      "backgroundPosition": "fit",
+      "backgroundColor": "var(--light-300)",
+      "backgroundIMage": {}
+    },
+    "view_9": {
+      "id": "view_9",
+      "label": "Exonerations",
+      "layout": {
+        "LARGE": "layout_60"
+      },
+      "backgroundPosition": "fit",
+      "backgroundColor": "var(--light-300)",
+      "backgroundIMage": {}
+    }
+  },
+  "sections": {
+    "section_1": {
+      "id": "section_1",
+      "label": "Section 1",
+      "views": [
+        "view_1",
+        "view_2",
+        "view_3",
+        "view_4",
+        "view_5",
+        "view_6",
+        "view_7",
+        "view_8",
+        "view_9"
+      ],
+      "style": {
+        "border": {
+          "type": "solid",
+          "color": "var(--warning)",
+          "width": "2px"
+        },
+        "borderRadius": {
+          "number": [
+            0
+          ],
+          "unit": "px"
+        },
+        "boxShadow": {
+          "offsetX": "0px",
+          "offsetY": "0px",
+          "blur": "2px",
+          "spread": "2px",
+          "color": "var(--dark-900)"
+        }
+      },
+      "dotsNav": {
+        "visible": false
+      }
+    }
+  },
+  "dialogs": {},
+  "dataSources": {},
+  "messageConfigs": {},
+  "pageStructure": [
+    {
+      "page_0": []
+    }
+  ],
+  "screenGroups": {},
+  "screens": {},
+  "timestamp": 1606653508852
+}
