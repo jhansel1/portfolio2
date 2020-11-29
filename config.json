@@ -31,21 +31,6 @@
             "heightMode": "fixed"
           }
         },
-        "1": {
-          "type": "WIDGET",
-          "bbox": {
-            "left": "346px",
-            "right": "746px",
-            "top": "50px",
-            "bottom": "450px",
-            "width": "400px",
-            "height": "300px"
-          },
-          "widgetId": "widget_4",
-          "setting": {
-            "heightMode": "fixed"
-          }
-        },
         "2": {
           "type": "WIDGET",
           "bbox": {
@@ -75,11 +60,26 @@
           "setting": {
             "heightMode": "fixed"
           }
+        },
+        "4": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "346px",
+            "right": "746px",
+            "top": "50px",
+            "bottom": "450px",
+            "width": "400px",
+            "height": "300px"
+          },
+          "widgetId": "widget_206",
+          "setting": {
+            "heightMode": "fixed"
+          }
         }
       },
       "order": [
         "0",
-        "1",
+        "4",
         "2",
         "3"
       ]
@@ -153,101 +153,6 @@
             "vCenter": false,
             "hCenter": false
           }
-        }
-      }
-    },
-    "layout_3": {
-      "type": "ROW",
-      "label": "Default",
-      "order": [
-        "0"
-      ],
-      "content": {
-        "0": {
-          "type": "WIDGET",
-          "bbox": {
-            "left": 0,
-            "width": 12,
-            "height": "280.00px"
-          },
-          "widgetId": "widget_5",
-          "setting": {
-            "heightMode": "fit",
-            "autoProps": {
-              "height": "CUSTOM"
-            }
-          }
-        }
-      }
-    },
-    "layout_4": {
-      "type": "FIXED",
-      "label": "Default",
-      "order": [
-        "0",
-        "1",
-        "2"
-      ],
-      "content": {
-        "0": {
-          "type": "WIDGET",
-          "bbox": {
-            "left": "4.6778%",
-            "right": "78.2984%",
-            "top": "19.3103%",
-            "bottom": "9.8330%",
-            "width": "17.0250%",
-            "height": "70.8567%"
-          },
-          "widgetId": "widget_6",
-          "isPending": false,
-          "setting": {
-            "vCenter": false,
-            "hCenter": false
-          }
-        },
-        "1": {
-          "type": "WIDGET",
-          "bbox": {
-            "left": "27.1887%",
-            "right": "8.3259%",
-            "top": "19.7879%",
-            "bottom": "8.1417%",
-            "width": "64.4854%",
-            "height": "72.0703%"
-          },
-          "widgetId": "widget_7",
-          "isPending": false,
-          "setting": {
-            "vCenter": false,
-            "hCenter": false,
-            "autoProps": {
-              "top": false,
-              "bottom": true
-            }
-          }
-        },
-        "2": {
-          "type": "WIDGET",
-          "setting": {
-            "style": {},
-            "vCenter": false,
-            "hCenter": true,
-            "autoProps": {
-              "left": false,
-              "right": true
-            }
-          },
-          "bbox": {
-            "left": "50%",
-            "right": "42.6670%",
-            "top": "11px",
-            "bottom": "83.03790000000006%",
-            "width": "15.9524%",
-            "height": "15.8621%"
-          },
-          "widgetId": "widget_205",
-          "isPending": false
         }
       }
     },
@@ -1618,6 +1523,101 @@
           "isPending": false
         }
       }
+    },
+    "layout_63": {
+      "type": "ROW",
+      "label": "Default",
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": 0,
+            "width": 12,
+            "height": "280.00px"
+          },
+          "widgetId": "widget_207",
+          "setting": {
+            "heightMode": "fit",
+            "autoProps": {
+              "height": "CUSTOM"
+            }
+          }
+        }
+      },
+      "order": [
+        "0"
+      ]
+    },
+    "layout_64": {
+      "type": "FIXED",
+      "label": "Default",
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "4.6778%",
+            "right": "78.2984%",
+            "top": "19.3103%",
+            "bottom": "9.8330%",
+            "width": "17.0250%",
+            "height": "70.8567%"
+          },
+          "widgetId": "widget_208",
+          "isPending": false,
+          "setting": {
+            "vCenter": false,
+            "hCenter": false
+          }
+        },
+        "1": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "27.1887%",
+            "right": "8.3259%",
+            "top": "19.7879%",
+            "bottom": "8.1417%",
+            "width": "64.4854%",
+            "height": "72.0703%"
+          },
+          "widgetId": "widget_209",
+          "isPending": false,
+          "setting": {
+            "vCenter": false,
+            "hCenter": false,
+            "autoProps": {
+              "top": false,
+              "bottom": true
+            }
+          }
+        },
+        "2": {
+          "type": "WIDGET",
+          "setting": {
+            "style": {},
+            "vCenter": false,
+            "hCenter": true,
+            "autoProps": {
+              "left": false,
+              "right": true
+            }
+          },
+          "bbox": {
+            "left": "50%",
+            "right": "42.6670%",
+            "top": "11px",
+            "bottom": "83.03790000000006%",
+            "width": "15.9524%",
+            "height": "15.8621%"
+          },
+          "widgetId": "widget_210",
+          "isPending": false
+        }
+      },
+      "order": [
+        "0",
+        "1",
+        "2"
+      ]
     }
   },
   "exbVersion": "1.2.0",
@@ -1697,87 +1697,6 @@
         }
       },
       "id": "widget_3"
-    },
-    "widget_4": {
-      "uri": "widgets/layout/row/",
-      "version": "1.2.0",
-      "label": "Block 2",
-      "config": {
-        "space": 10,
-        "style": {
-          "padding": {
-            "number": [
-              10
-            ],
-            "unit": "px"
-          }
-        }
-      },
-      "id": "widget_4",
-      "layouts": {
-        "DEFAULT": {
-          "LARGE": "layout_3"
-        }
-      }
-    },
-    "widget_5": {
-      "uri": "widgets/layout/fixed/",
-      "version": "1.2.0",
-      "label": "Fixed Panel 2",
-      "id": "widget_5",
-      "layouts": {
-        "DEFAULT": {
-          "LARGE": "layout_4"
-        }
-      },
-      "style": {
-        "background": {
-          "color": "var(--info-100)",
-          "fillType": "fit",
-          "image": {
-            "url": ""
-          }
-        }
-      }
-    },
-    "widget_6": {
-      "uri": "widgets/common/image/",
-      "version": "1.2.0",
-      "label": "Image 1",
-      "config": {
-        "functionConfig": {
-          "altText": "",
-          "toolTip": "",
-          "linkParam": {},
-          "scale": "Fit",
-          "imageParam": {
-            "url": "https://jhansel1.github.io/assets/jon.png",
-            "originalUrl": "https://jhansel1.github.io/assets/jon.png",
-            "fileName": "jon.png",
-            "originalName": "jon.png",
-            "imgSourceType": "BY_URL"
-          },
-          "imgSourceType": "",
-          "srcExpression": null,
-          "imageFillMode": "FIT"
-        },
-        "styleConfig": {}
-      },
-      "id": "widget_6"
-    },
-    "widget_7": {
-      "uri": "widgets/common/text/",
-      "version": "1.2.0",
-      "label": "Text 2",
-      "config": {
-        "text": "<p><span style=\"font-size: 14px;\">Hello!  I am Jonathan Hansel and currently live in Chicago, IL.  I have been married for almost 14 years and also have a German Shepherd dog.</span></p><p><br></p><p><span style=\"font-size: 14px;\">In my spare time I love the outdoors... whether its trail running, hiking or fishing I love just getting fresh air. </span></p><p><br></p><p><span style=\"font-size: 14px;\">I have served in the U.S. Marine Corps and traveled the world.  I hold a Bachelor of Science in Geography from George Mason University in Fairfax, VA and currently working on my Master of Science in GIS and Web Programming at the University of Wisconsin - Madison. </span></p><p><br></p><p><span style=\"font-size: 14px;\">Please feel free to contact me at jhansel@wisc.edu. Thanks for stopping by! </span></p>",
-        "placeholder": "Double click to edit text",
-        "style": {
-          "verticalAlign": "start",
-          "wrap": true
-        }
-      },
-      "id": "widget_7"
     },
     "widget_8": {
       "uri": "widgets/layout/row/",
@@ -3781,10 +3700,91 @@
       },
       "id": "widget_204"
     },
-    "widget_205": {
+    "widget_206": {
+      "uri": "widgets/layout/row/",
+      "version": "1.2.0",
+      "label": "Block 2 copy",
+      "config": {
+        "space": 10,
+        "style": {
+          "padding": {
+            "number": [
+              10
+            ],
+            "unit": "px"
+          }
+        }
+      },
+      "id": "widget_206",
+      "layouts": {
+        "DEFAULT": {
+          "LARGE": "layout_63"
+        }
+      }
+    },
+    "widget_207": {
+      "uri": "widgets/layout/fixed/",
+      "version": "1.2.0",
+      "label": "Fixed Panel 2 copy",
+      "id": "widget_207",
+      "layouts": {
+        "DEFAULT": {
+          "LARGE": "layout_64"
+        }
+      },
+      "style": {
+        "background": {
+          "color": "var(--info-100)",
+          "fillType": "fit",
+          "image": {
+            "url": ""
+          }
+        }
+      }
+    },
+    "widget_208": {
+      "uri": "widgets/common/image/",
+      "version": "1.2.0",
+      "label": "Image 1 copy",
+      "config": {
+        "functionConfig": {
+          "altText": "",
+          "toolTip": "",
+          "linkParam": {},
+          "scale": "Fit",
+          "imageParam": {
+            "url": "https://jhansel1.github.io/assets/jon.png",
+            "originalUrl": "https://jhansel1.github.io/assets/jon.png",
+            "fileName": "jon.png",
+            "originalName": "jon.png",
+            "imgSourceType": "BY_URL"
+          },
+          "imgSourceType": "",
+          "srcExpression": null,
+          "imageFillMode": "FIT"
+        },
+        "styleConfig": {}
+      },
+      "id": "widget_208"
+    },
+    "widget_209": {
       "uri": "widgets/common/text/",
       "version": "1.2.0",
-      "label": "Text 53 copy 2",
+      "label": "Text 2 copy",
+      "config": {
+        "text": "<p><span style=\"font-size: 14px;\">Hello!  I am Jonathan Hansel and currently live in Chicago, IL.  I have been married for almost 14 years and also have a German Shepherd dog.</span></p><p><br></p><p><span style=\"font-size: 14px;\">In my spare time I love the outdoors... whether its trail running, hiking or fishing I love just getting fresh air. </span></p><p><br></p><p><span style=\"font-size: 14px;\">I have served in the U.S. Marine Corps and traveled the world.  I hold a Bachelor of Science in Geography from George Mason University in Fairfax, VA and currently working on my Master of Science in GIS and Web Programming at the University of Wisconsin - Madison. </span></p><p><br></p><p><span style=\"font-size: 14px;\">Please feel free to contact me at jhansel@wisc.edu. Thanks for stopping by! </span></p>",
+        "placeholder": "Double click to edit text",
+        "style": {
+          "verticalAlign": "start",
+          "wrap": true
+        }
+      },
+      "id": "widget_209"
+    },
+    "widget_210": {
+      "uri": "widgets/common/text/",
+      "version": "1.2.0",
+      "label": "Text 53 copy 2 copy",
       "config": {
         "text": "<p style=\"text-align: center;\"><strong style=\"text-shadow: rgba(0, 0, 0, 0.4) 0px -4px 4px; font-size: 24px; font-family: Georgia;\">ABOUT ME</strong></p>",
         "placeholder": "Double click to edit text",
@@ -3793,7 +3793,7 @@
           "wrap": true
         }
       },
-      "id": "widget_205"
+      "id": "widget_210"
     }
   },
   "widgetsManifest": {},
